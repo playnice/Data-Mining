@@ -1,0 +1,1001 @@
+"","ReceiptID","Item1","Item2","Item3","Item4","Item5","Item6","Item7","Item8"
+"1",1,"Coffee Eclair","Blackberry Tart","Bottled Water","Single Espresso",NA,NA,NA,NA
+"2",2,"Lemon Cake","Lemon Tart",NA,NA,NA,NA,NA,NA
+"3",3,"Lemon Cake","Lemon Tart",NA,NA,NA,NA,NA,NA
+"4",4,"Opera Cake","Strawberry Cake","Blackberry Tart","Cherry Tart","Apricot Danish","Bottled Water",NA,NA
+"5",5,"Casino Cake","Strawberry Cake","Coffee Eclair","Napoleon Cake","Raspberry Cookie",NA,NA,NA
+"6",6,"Berry Tart","Ganache Cookie","Bottled Water",NA,NA,NA,NA,NA
+"7",7,"Strawberry Cake","Apple Tart","Apple Croissant","Apple Danish","Bottled Water","Cherry Soda",NA,NA
+"8",8,"Blackberry Tart","Marzipan Cookie","Tuile Cookie",NA,NA,NA,NA,NA
+"9",9,"Casino Cake","Tuile Cookie",NA,NA,NA,NA,NA,NA
+"10",10,"Opera Cake","Cherry Tart","Apricot Danish",NA,NA,NA,NA,NA
+"11",11,"Raspberry Cookie","Lemon Cookie","Lemon Lemonade","Raspberry Lemonade","Green Tea",NA,NA,NA
+"12",12,"Pecan Tart","Green Tea","Cherry Soda",NA,NA,NA,NA,NA
+"13",13,"Single Espresso",NA,NA,NA,NA,NA,NA,NA
+"14",14,"Lemon Cake","Lemon Tart","Vanilla Meringue",NA,NA,NA,NA,NA
+"15",15,"Truffle Cake","Gongolais Cookie","Blueberry Danish",NA,NA,NA,NA,NA
+"16",16,"Blueberry Tart","Apricot Croissant","Hot Coffee",NA,NA,NA,NA,NA
+"17",17,"Strawberry Cake","Chocolate Eclair","Napoleon Cake","Almond Tart","Blueberry Tart","Gongolais Cookie",NA,NA
+"18",18,"Lemon Cake","Lemon Tart","Raspberry Cookie",NA,NA,NA,NA,NA
+"19",19,"Coffee Eclair","Apple Pie","Almond Twist","Hot Coffee",NA,NA,NA,NA
+"20",20,"Opera Cake","Cherry Tart","Apricot Croissant","Apricot Danish",NA,NA,NA,NA
+"21",21,"Lemon Cake","Vanilla Eclair","Lemon Tart","Vanilla Frappuccino",NA,NA,NA,NA
+"22",22,"Chocolate Croissant","Blueberry Danish","Bottled Water",NA,NA,NA,NA,NA
+"23",23,"Apricot Tart","Lemon Tart",NA,NA,NA,NA,NA,NA
+"24",24,"Strawberry Cake","Napoleon Cake","Almond Bear Claw",NA,NA,NA,NA,NA
+"25",25,"Coffee Eclair","Gongolais Cookie","Cherry Soda",NA,NA,NA,NA,NA
+"26",26,"Coffee Eclair","Apple Pie","Berry Tart",NA,NA,NA,NA,NA
+"27",27,"Raspberry Cookie","Lemon Cookie","Lemon Lemonade","Raspberry Lemonade","Green Tea",NA,NA,NA
+"28",28,"Napoleon Cake","Berry Tart",NA,NA,NA,NA,NA,NA
+"29",29,"Chocolate Cake","Casino Cake","Orange Juice",NA,NA,NA,NA,NA
+"30",30,"Apricot Tart","Apricot Danish",NA,NA,NA,NA,NA,NA
+"31",31,"Raspberry Cookie",NA,NA,NA,NA,NA,NA,NA
+"32",32,"Vanilla Eclair","Ganache Cookie","Chocolate Meringue","Almond Bear Claw",NA,NA,NA,NA
+"33",33,"Strawberry Cake","Chocolate Coffee",NA,NA,NA,NA,NA,NA
+"34",34,"Raspberry Cookie","Lemon Cookie","Lemon Lemonade","Raspberry Lemonade","Green Tea",NA,NA,NA
+"35",35,"Strawberry Cake","Chocolate Tart","Walnut Cookie","Vanilla Frappuccino",NA,NA,NA,NA
+"36",36,"Apple Tart","Apple Croissant","Apple Danish",NA,NA,NA,NA,NA
+"37",37,"Berry Tart","Gongolais Cookie","Vanilla Meringue","Almond Twist","Bottled Water",NA,NA,NA
+"38",38,"Chocolate Cake","Blueberry Tart","Almond Croissant","Apricot Croissant","Hot Coffee","Vanilla Frappuccino",NA,NA
+"39",39,"Lemon Cake","Apple Pie","Lemon Tart","Chocolate Meringue","Marzipan Cookie","Walnut Cookie","Chocolate Coffee",NA
+"40",40,"Blackberry Tart","Blueberry Tart","Cherry Tart","Ganache Cookie","Vanilla Meringue",NA,NA,NA
+"41",41,"Strawberry Cake","Almond Tart","Berry Tart",NA,NA,NA,NA,NA
+"42",42,"Opera Cake","Apple Danish",NA,NA,NA,NA,NA,NA
+"43",43,"Raspberry Cookie","Marzipan Cookie","Tuile Cookie",NA,NA,NA,NA,NA
+"44",44,"Blackberry Tart","Ganache Cookie","Lemon Lemonade",NA,NA,NA,NA,NA
+"45",45,"Almond Tart","Lemon Tart","Chocolate Meringue","Apricot Croissant",NA,NA,NA,NA
+"46",46,"Apple Pie","Gongolais Cookie","Bottled Water",NA,NA,NA,NA,NA
+"47",47,"Vanilla Eclair",NA,NA,NA,NA,NA,NA,NA
+"48",48,"Chocolate Cake","Casino Cake","Chocolate Coffee",NA,NA,NA,NA,NA
+"49",49,"Cheese Croissant","Orange Juice",NA,NA,NA,NA,NA,NA
+"50",50,"Tuile Cookie","Blueberry Danish",NA,NA,NA,NA,NA,NA
+"51",51,"Coffee Eclair","Chocolate Tart","Tuile Cookie",NA,NA,NA,NA,NA
+"52",52,"Lemon Cake","Lemon Tart",NA,NA,NA,NA,NA,NA
+"53",53,"Apricot Croissant","Chocolate Croissant",NA,NA,NA,NA,NA,NA
+"54",54,"Chocolate Cake","Casino Cake","Chocolate Coffee",NA,NA,NA,NA,NA
+"55",55,"Blackberry Tart","Almond Croissant","Hot Coffee",NA,NA,NA,NA,NA
+"56",56,"Blueberry Danish","Single Espresso",NA,NA,NA,NA,NA,NA
+"57",57,"Chocolate Coffee",NA,NA,NA,NA,NA,NA,NA
+"58",58,"Strawberry Cake","Napoleon Cake","Lemon Tart",NA,NA,NA,NA,NA
+"59",59,"Chocolate Cake","Casino Cake","Blueberry Tart","Lemon Tart","Chocolate Coffee",NA,NA,NA
+"60",60,"Chocolate Tart","Ganache Cookie","Lemon Lemonade",NA,NA,NA,NA,NA
+"61",61,"Casino Cake","Strawberry Cake","Chocolate Eclair","Napoleon Cake","Blueberry Danish",NA,NA,NA
+"62",62,"Raspberry Cookie","Lemon Cookie","Lemon Lemonade","Raspberry Lemonade","Green Tea",NA,NA,NA
+"63",63,"Apricot Tart","Marzipan Cookie","Tuile Cookie",NA,NA,NA,NA,NA
+"64",64,"Lemon Lemonade",NA,NA,NA,NA,NA,NA,NA
+"65",65,"Apple Tart","Berry Tart","Bottled Water",NA,NA,NA,NA,NA
+"66",66,"Marzipan Cookie","Tuile Cookie",NA,NA,NA,NA,NA,NA
+"67",67,"Lemon Cake","Apple Danish",NA,NA,NA,NA,NA,NA
+"68",68,"Apple Tart","Apple Croissant","Apple Danish","Cherry Soda",NA,NA,NA,NA
+"69",69,"Opera Cake","Cherry Tart","Apricot Danish",NA,NA,NA,NA,NA
+"70",70,"Truffle Cake","Apple Tart","Blueberry Tart",NA,NA,NA,NA,NA
+"71",71,"Almond Croissant","Single Espresso",NA,NA,NA,NA,NA,NA
+"72",72,"Coffee Eclair","Walnut Cookie","Almond Croissant",NA,NA,NA,NA,NA
+"73",73,"Chocolate Tart","Lemon Tart","Almond Croissant",NA,NA,NA,NA,NA
+"74",74,"Lemon Cake","Apricot Tart","Apple Danish",NA,NA,NA,NA,NA
+"75",75,"Lemon Tart","Cheese Croissant","Single Espresso",NA,NA,NA,NA,NA
+"76",76,"Lemon Cake","Truffle Cake","Berry Tart","Almond Bear Claw",NA,NA,NA,NA
+"77",77,"Apple Croissant",NA,NA,NA,NA,NA,NA,NA
+"78",78,"Lemon Cake","Truffle Cake","Vanilla Eclair","Berry Tart","Gongolais Cookie","Vanilla Meringue",NA,NA
+"79",79,"Coffee Eclair","Marzipan Cookie","Almond Croissant","Apple Danish","Almond Twist","Green Tea",NA,NA
+"80",80,"Apricot Tart","Apricot Danish","Orange Juice",NA,NA,NA,NA,NA
+"81",81,"Truffle Cake","Gongolais Cookie","Apricot Croissant",NA,NA,NA,NA,NA
+"82",82,"Coffee Eclair","Apple Pie","Pecan Tart","Tuile Cookie","Almond Twist","Hot Coffee",NA,NA
+"83",83,"Raspberry Cookie","Lemon Cookie","Lemon Lemonade","Raspberry Lemonade",NA,NA,NA,NA
+"84",84,"Opera Cake","Truffle Cake","Berry Tart","Gongolais Cookie","Apple Danish",NA,NA,NA
+"85",85,"Apple Tart","Apple Croissant","Apple Danish","Cherry Soda",NA,NA,NA,NA
+"86",86,"Hot Coffee",NA,NA,NA,NA,NA,NA,NA
+"87",87,"Apple Tart","Apple Croissant","Apple Danish","Cherry Soda",NA,NA,NA,NA
+"88",88,"Berry Tart","Bottled Water",NA,NA,NA,NA,NA,NA
+"89",89,"Truffle Cake","Lemon Tart","Gongolais Cookie","Chocolate Croissant","Green Tea",NA,NA,NA
+"90",90,"Chocolate Cake","Casino Cake","Hot Coffee","Chocolate Coffee",NA,NA,NA,NA
+"91",91,"Blueberry Tart","Apricot Croissant","Hot Coffee","Vanilla Frappuccino","Cherry Soda",NA,NA,NA
+"92",92,"Lemon Cake","Cherry Soda",NA,NA,NA,NA,NA,NA
+"93",93,"Lemon Cake","Opera Cake","Cherry Tart","Apricot Danish",NA,NA,NA,NA
+"94",94,"Coffee Eclair","Apple Pie","Almond Twist","Hot Coffee",NA,NA,NA,NA
+"95",95,"Blueberry Tart","Vanilla Meringue","Apricot Croissant","Raspberry Lemonade","Hot Coffee",NA,NA,NA
+"96",96,"Lemon Cake","Walnut Cookie","Almond Croissant",NA,NA,NA,NA,NA
+"97",97,"Lemon Cake","Lemon Tart",NA,NA,NA,NA,NA,NA
+"98",98,"Lemon Cake",NA,NA,NA,NA,NA,NA,NA
+"99",99,"Berry Tart","Gongolais Cookie","Almond Twist",NA,NA,NA,NA,NA
+"100",100,"Gongolais Cookie","Chocolate Croissant","Lemon Lemonade",NA,NA,NA,NA,NA
+"101",101,"Apple Croissant",NA,NA,NA,NA,NA,NA,NA
+"102",102,"Blueberry Tart","Chocolate Tart","Green Tea",NA,NA,NA,NA,NA
+"103",103,"Vanilla Eclair","Lemon Tart","Pecan Tart","Cherry Soda",NA,NA,NA,NA
+"104",104,"Lemon Cake","Apple Tart","Blackberry Tart","Marzipan Cookie","Apple Croissant","Chocolate Croissant","Apple Danish","Cherry Soda"
+"105",105,"Opera Cake","Lemon Lemonade","Hot Coffee",NA,NA,NA,NA,NA
+"106",106,"Apricot Tart","Cherry Tart","Ganache Cookie","Raspberry Lemonade","Vanilla Frappuccino","Cherry Soda",NA,NA
+"107",107,"Opera Cake","Cherry Tart","Gongolais Cookie","Marzipan Cookie",NA,NA,NA,NA
+"108",108,"Chocolate Eclair","Blueberry Tart","Chocolate Tart","Apple Croissant","Cheese Croissant","Orange Juice",NA,NA
+"109",109,"Truffle Cake","Gongolais Cookie","Marzipan Cookie","Apricot Danish",NA,NA,NA,NA
+"110",110,"Coffee Eclair","Blackberry Tart","Single Espresso",NA,NA,NA,NA,NA
+"111",111,"Chocolate Eclair","Apple Tart","Vanilla Meringue","Walnut Cookie","Apple Croissant","Apricot Croissant","Apple Danish","Cherry Soda"
+"112",112,"Apple Pie","Apricot Tart","Berry Tart","Bottled Water",NA,NA,NA,NA
+"113",113,"Raspberry Cookie","Cheese Croissant","Apricot Danish",NA,NA,NA,NA,NA
+"114",114,"Truffle Cake","Vanilla Eclair","Cherry Tart","Walnut Cookie","Chocolate Coffee",NA,NA,NA
+"115",115,"Raspberry Lemonade",NA,NA,NA,NA,NA,NA,NA
+"116",116,"Lemon Cake","Opera Cake","Vanilla Eclair","Marzipan Cookie","Tuile Cookie",NA,NA,NA
+"117",117,"Lemon Cake","Apple Pie","Lemon Tart","Cheese Croissant",NA,NA,NA,NA
+"118",118,"Raspberry Cookie","Lemon Cookie","Lemon Lemonade","Raspberry Lemonade",NA,NA,NA,NA
+"119",119,"Blueberry Tart","Cherry Tart","Raspberry Cookie","Marzipan Cookie","Walnut Cookie","Almond Croissant","Lemon Lemonade","Single Espresso"
+"120",120,"Berry Tart","Cherry Tart","Bottled Water",NA,NA,NA,NA,NA
+"121",121,"Chocolate Cake","Casino Cake","Chocolate Coffee",NA,NA,NA,NA,NA
+"122",122,"Opera Cake","Cherry Tart","Apricot Danish",NA,NA,NA,NA,NA
+"123",123,"Apple Tart","Apple Croissant","Apple Danish","Cherry Soda",NA,NA,NA,NA
+"124",124,"Coffee Eclair","Apple Pie","Pecan Tart","Walnut Cookie","Almond Twist","Hot Coffee",NA,NA
+"125",125,"Casino Cake","Lemon Cookie","Marzipan Cookie",NA,NA,NA,NA,NA
+"126",126,"Truffle Cake","Apricot Tart","Gongolais Cookie",NA,NA,NA,NA,NA
+"127",127,"Gongolais Cookie","Orange Juice","Chocolate Coffee","Vanilla Frappuccino",NA,NA,NA,NA
+"128",128,"Blueberry Danish","Raspberry Lemonade",NA,NA,NA,NA,NA,NA
+"129",129,"Apricot Tart","Raspberry Cookie",NA,NA,NA,NA,NA,NA
+"130",130,"Lemon Cake","Lemon Cookie","Lemon Lemonade","Orange Juice",NA,NA,NA,NA
+"131",131,"Berry Tart","Pecan Tart","Vanilla Meringue","Bottled Water",NA,NA,NA,NA
+"132",132,"Apple Tart","Apple Croissant","Apple Danish","Cherry Soda",NA,NA,NA,NA
+"133",133,"Coffee Eclair","Ganache Cookie","Marzipan Cookie","Tuile Cookie","Cheese Croissant","Apple Danish","Vanilla Frappuccino",NA
+"134",134,"Chocolate Tart","Walnut Cookie","Vanilla Frappuccino",NA,NA,NA,NA,NA
+"135",135,"Apple Tart","Apple Croissant","Apple Danish",NA,NA,NA,NA,NA
+"136",136,"Strawberry Cake","Napoleon Cake","Apple Pie",NA,NA,NA,NA,NA
+"137",137,"Opera Cake","Apple Pie","Berry Tart","Cherry Tart","Walnut Cookie","Apricot Danish",NA,NA
+"138",138,"Pecan Tart","Cheese Croissant","Orange Juice",NA,NA,NA,NA,NA
+"139",139,"Gongolais Cookie","Bottled Water","Chocolate Coffee",NA,NA,NA,NA,NA
+"140",140,"Truffle Cake","Chocolate Eclair","Blueberry Tart","Gongolais Cookie","Cheese Croissant","Almond Bear Claw","Single Espresso",NA
+"141",141,"Chocolate Cake","Casino Cake","Apple Tart","Lemon Cookie","Vanilla Meringue","Apple Croissant","Chocolate Coffee",NA
+"142",142,"Chocolate Cake","Chocolate Eclair","Chocolate Meringue",NA,NA,NA,NA,NA
+"143",143,"Truffle Cake","Lemon Tart","Gongolais Cookie",NA,NA,NA,NA,NA
+"144",144,"Apple Pie","Apricot Tart","Berry Tart","Apricot Danish","Cherry Soda",NA,NA,NA
+"145",145,"Chocolate Tart","Walnut Cookie","Apricot Danish","Bottled Water","Vanilla Frappuccino",NA,NA,NA
+"146",146,"Coffee Eclair","Blackberry Tart",NA,NA,NA,NA,NA,NA
+"147",147,"Truffle Cake","Gongolais Cookie",NA,NA,NA,NA,NA,NA
+"148",148,"Chocolate Cake","Lemon Cake","Casino Cake","Chocolate Coffee",NA,NA,NA,NA
+"149",149,"Strawberry Cake","Napoleon Cake","Cherry Tart","Raspberry Lemonade",NA,NA,NA,NA
+"150",150,"Lemon Cake","Apple Tart","Cherry Tart","Lemon Tart","Blueberry Danish",NA,NA,NA
+"151",151,"Chocolate Cake","Casino Cake","Lemon Tart","Gongolais Cookie","Chocolate Coffee",NA,NA,NA
+"152",152,"Cheese Croissant","Almond Twist","Orange Juice",NA,NA,NA,NA,NA
+"153",153,"Chocolate Cake","Casino Cake","Almond Twist","Chocolate Coffee",NA,NA,NA,NA
+"154",154,"Apple Pie","Cherry Tart","Apricot Danish","Hot Coffee",NA,NA,NA,NA
+"155",155,"Strawberry Cake","Napoleon Cake","Blackberry Tart",NA,NA,NA,NA,NA
+"156",156,"Lemon Tart","Lemon Cookie","Tuile Cookie","Apricot Danish","Single Espresso",NA,NA,NA
+"157",157,"Truffle Cake","Gongolais Cookie","Almond Twist",NA,NA,NA,NA,NA
+"158",158,"Chocolate Cake","Casino Cake","Truffle Cake","Lemon Tart","Cheese Croissant","Apricot Danish","Blueberry Danish","Chocolate Coffee"
+"159",159,"Opera Cake","Strawberry Cake","Truffle Cake","Cherry Soda",NA,NA,NA,NA
+"160",160,"Strawberry Cake","Chocolate Eclair","Cherry Tart","Tuile Cookie","Apricot Danish",NA,NA,NA
+"161",161,"Opera Cake","Cherry Tart","Apple Croissant","Apricot Danish",NA,NA,NA,NA
+"162",162,"Chocolate Eclair","Chocolate Tart","Chocolate Meringue","Single Espresso",NA,NA,NA,NA
+"163",163,"Chocolate Tart",NA,NA,NA,NA,NA,NA,NA
+"164",164,"Opera Cake","Vanilla Eclair","Napoleon Cake","Pecan Tart","Gongolais Cookie","Raspberry Cookie","Orange Juice",NA
+"165",165,"Strawberry Cake","Blackberry Tart","Chocolate Tart","Ganache Cookie","Vanilla Meringue","Apple Danish","Cherry Soda",NA
+"166",166,"Berry Tart","Raspberry Lemonade","Bottled Water",NA,NA,NA,NA,NA
+"167",167,"Lemon Tart","Tuile Cookie","Orange Juice",NA,NA,NA,NA,NA
+"168",168,"Strawberry Cake","Napoleon Cake",NA,NA,NA,NA,NA,NA
+"169",169,"Apricot Tart","Apple Croissant","Cheese Croissant","Raspberry Lemonade","Orange Juice",NA,NA,NA
+"170",170,"Truffle Cake","Gongolais Cookie","Tuile Cookie",NA,NA,NA,NA,NA
+"171",171,"Chocolate Cake","Blueberry Tart","Apricot Croissant",NA,NA,NA,NA,NA
+"172",172,"Truffle Cake","Tuile Cookie","Green Tea",NA,NA,NA,NA,NA
+"173",173,"Lemon Cookie","Apple Danish","Almond Twist","Orange Juice",NA,NA,NA,NA
+"174",174,"Apple Croissant",NA,NA,NA,NA,NA,NA,NA
+"175",175,"Lemon Lemonade","Orange Juice",NA,NA,NA,NA,NA,NA
+"176",176,"Apple Pie","Chocolate Croissant","Cherry Soda",NA,NA,NA,NA,NA
+"177",177,"Berry Tart","Tuile Cookie","Lemon Lemonade","Green Tea",NA,NA,NA,NA
+"178",178,"Chocolate Cake","Apricot Tart","Vanilla Meringue",NA,NA,NA,NA,NA
+"179",179,"Blueberry Tart","Apricot Croissant","Hot Coffee",NA,NA,NA,NA,NA
+"180",180,"Almond Tart","Berry Tart","Bottled Water","Chocolate Coffee",NA,NA,NA,NA
+"181",181,"Strawberry Cake","Coffee Eclair","Napoleon Cake","Lemon Tart","Apple Danish",NA,NA,NA
+"182",182,"Raspberry Cookie","Lemon Cookie","Lemon Lemonade","Raspberry Lemonade","Green Tea",NA,NA,NA
+"183",183,"Strawberry Cake","Napoleon Cake","Almond Twist",NA,NA,NA,NA,NA
+"184",184,"Truffle Cake","Gongolais Cookie","Apple Croissant",NA,NA,NA,NA,NA
+"185",185,"Ganache Cookie","Lemon Cookie","Walnut Cookie",NA,NA,NA,NA,NA
+"186",186,"Chocolate Cake","Chocolate Eclair","Gongolais Cookie","Chocolate Coffee",NA,NA,NA,NA
+"187",187,"Opera Cake","Cherry Tart","Ganache Cookie","Apricot Danish","Blueberry Danish","Chocolate Coffee",NA,NA
+"188",188,"Apple Tart","Apple Croissant","Apple Danish","Almond Bear Claw","Cherry Soda",NA,NA,NA
+"189",189,"Tuile Cookie",NA,NA,NA,NA,NA,NA,NA
+"190",190,"Raspberry Cookie","Lemon Cookie","Lemon Lemonade","Raspberry Lemonade","Green Tea",NA,NA,NA
+"191",191,"Apple Tart","Lemon Cookie",NA,NA,NA,NA,NA,NA
+"192",192,"Chocolate Eclair","Marzipan Cookie","Tuile Cookie",NA,NA,NA,NA,NA
+"193",193,"Raspberry Cookie","Lemon Cookie","Lemon Lemonade","Raspberry Lemonade","Green Tea",NA,NA,NA
+"194",194,"Marzipan Cookie","Tuile Cookie",NA,NA,NA,NA,NA,NA
+"195",195,"Truffle Cake","Berry Tart","Blueberry Tart","Gongolais Cookie",NA,NA,NA,NA
+"196",196,"Truffle Cake","Gongolais Cookie",NA,NA,NA,NA,NA,NA
+"197",197,"Marzipan Cookie","Tuile Cookie","Bottled Water","Vanilla Frappuccino",NA,NA,NA,NA
+"198",198,"Truffle Cake","Gongolais Cookie",NA,NA,NA,NA,NA,NA
+"199",199,"Chocolate Cake","Casino Cake","Chocolate Coffee",NA,NA,NA,NA,NA
+"200",200,"Chocolate Cake","Almond Tart","Almond Croissant",NA,NA,NA,NA,NA
+"201",201,"Blackberry Tart","Cheese Croissant","Orange Juice",NA,NA,NA,NA,NA
+"202",202,"Strawberry Cake","Napoleon Cake","Lemon Lemonade",NA,NA,NA,NA,NA
+"203",203,"Lemon Cake","Apple Danish",NA,NA,NA,NA,NA,NA
+"204",204,"Raspberry Cookie","Lemon Cookie","Lemon Lemonade","Raspberry Lemonade",NA,NA,NA,NA
+"205",205,"Chocolate Meringue","Marzipan Cookie","Tuile Cookie","Apricot Croissant",NA,NA,NA,NA
+"206",206,"Coffee Eclair","Apple Pie","Almond Twist","Hot Coffee",NA,NA,NA,NA
+"207",207,"Pecan Tart","Cherry Soda",NA,NA,NA,NA,NA,NA
+"208",208,"Coffee Eclair","Apple Pie","Almond Twist","Hot Coffee",NA,NA,NA,NA
+"209",209,"Napoleon Cake","Marzipan Cookie","Tuile Cookie",NA,NA,NA,NA,NA
+"210",210,"Coffee Eclair","Apple Pie","Almond Twist",NA,NA,NA,NA,NA
+"211",211,"Lemon Cake","Casino Cake","Napoleon Cake","Gongolais Cookie","Cherry Soda",NA,NA,NA
+"212",212,"Coffee Eclair","Marzipan Cookie","Blueberry Danish","Hot Coffee",NA,NA,NA,NA
+"213",213,"Lemon Cake","Chocolate Eclair","Vanilla Eclair","Blackberry Tart","Cherry Tart","Lemon Tart","Ganache Cookie","Orange Juice"
+"214",214,"Raspberry Cookie","Lemon Cookie","Lemon Lemonade","Raspberry Lemonade",NA,NA,NA,NA
+"215",215,"Strawberry Cake","Berry Tart","Pecan Tart","Apricot Croissant","Apple Danish","Bottled Water",NA,NA
+"216",216,"Blueberry Tart","Apricot Croissant","Hot Coffee",NA,NA,NA,NA,NA
+"217",217,"Cherry Tart","Vanilla Meringue","Orange Juice","Hot Coffee",NA,NA,NA,NA
+"218",218,"Casino Cake","Apple Pie","Raspberry Cookie",NA,NA,NA,NA,NA
+"219",219,"Apple Pie","Blackberry Tart","Apricot Danish",NA,NA,NA,NA,NA
+"220",220,"Apple Croissant","Blueberry Danish","Green Tea","Hot Coffee","Chocolate Coffee",NA,NA,NA
+"221",221,"Chocolate Cake","Casino Cake","Tuile Cookie","Lemon Lemonade","Chocolate Coffee",NA,NA,NA
+"222",222,"Apricot Tart","Lemon Cookie","Vanilla Meringue","Apricot Danish","Blueberry Danish","Vanilla Frappuccino",NA,NA
+"223",223,"Coffee Eclair","Ganache Cookie","Raspberry Cookie","Almond Croissant","Apple Danish",NA,NA,NA
+"224",224,"Raspberry Cookie","Lemon Lemonade","Vanilla Frappuccino",NA,NA,NA,NA,NA
+"225",225,"Truffle Cake","Gongolais Cookie",NA,NA,NA,NA,NA,NA
+"226",226,"Lemon Cake","Truffle Cake","Lemon Tart","Almond Croissant",NA,NA,NA,NA
+"227",227,"Coffee Eclair","Blackberry Tart","Single Espresso",NA,NA,NA,NA,NA
+"228",228,"Coffee Eclair","Apple Pie","Almond Twist","Hot Coffee",NA,NA,NA,NA
+"229",229,"Raspberry Cookie","Apple Croissant","Chocolate Croissant","Hot Coffee",NA,NA,NA,NA
+"230",230,"Coffee Eclair","Walnut Cookie","Cherry Soda",NA,NA,NA,NA,NA
+"231",231,"Marzipan Cookie","Tuile Cookie",NA,NA,NA,NA,NA,NA
+"232",232,"Lemon Cookie","Bottled Water",NA,NA,NA,NA,NA,NA
+"233",233,"Strawberry Cake","Truffle Cake","Napoleon Cake","Blueberry Danish",NA,NA,NA,NA
+"234",234,"Truffle Cake","Gongolais Cookie","Chocolate Meringue","Tuile Cookie","Chocolate Croissant","Chocolate Coffee",NA,NA
+"235",235,"Raspberry Cookie","Apricot Croissant","Cherry Soda",NA,NA,NA,NA,NA
+"236",236,"Blueberry Tart","Orange Juice",NA,NA,NA,NA,NA,NA
+"237",237,"Truffle Cake","Gongolais Cookie",NA,NA,NA,NA,NA,NA
+"238",238,"Strawberry Cake","Napoleon Cake","Blackberry Tart","Chocolate Meringue",NA,NA,NA,NA
+"239",239,"Lemon Cake","Apple Tart","Blueberry Tart","Chocolate Tart","Lemon Tart","Vanilla Meringue","Cherry Soda",NA
+"240",240,"Lemon Cake","Opera Cake","Blueberry Tart","Lemon Tart","Apricot Danish",NA,NA,NA
+"241",241,"Apple Pie","Apple Tart",NA,NA,NA,NA,NA,NA
+"242",242,"Strawberry Cake","Napoleon Cake","Almond Tart","Apple Tart","Hot Coffee",NA,NA,NA
+"243",243,"Apple Tart","Apple Croissant","Apple Danish","Chocolate Coffee","Cherry Soda",NA,NA,NA
+"244",244,"Chocolate Tart","Tuile Cookie","Vanilla Frappuccino",NA,NA,NA,NA,NA
+"245",245,"Opera Cake","Cherry Tart","Apricot Danish",NA,NA,NA,NA,NA
+"246",246,"Strawberry Cake","Napoleon Cake",NA,NA,NA,NA,NA,NA
+"247",247,"Coffee Eclair","Apple Pie","Almond Twist","Hot Coffee",NA,NA,NA,NA
+"248",248,"Truffle Cake","Apple Tart","Gongolais Cookie",NA,NA,NA,NA,NA
+"249",249,"Chocolate Eclair","Berry Tart","Almond Bear Claw","Cherry Soda",NA,NA,NA,NA
+"250",250,"Napoleon Cake","Almond Tart","Chocolate Croissant","Apple Danish","Orange Juice",NA,NA,NA
+"251",251,"Opera Cake","Cherry Tart","Apricot Danish",NA,NA,NA,NA,NA
+"252",252,"Opera Cake",NA,NA,NA,NA,NA,NA,NA
+"253",253,"Berry Tart","Marzipan Cookie",NA,NA,NA,NA,NA,NA
+"254",254,"Chocolate Cake","Lemon Cake","Lemon Tart",NA,NA,NA,NA,NA
+"255",255,"Opera Cake","Cherry Tart","Lemon Cookie","Apricot Danish",NA,NA,NA,NA
+"256",256,"Apple Tart","Apple Croissant","Apple Danish","Cherry Soda",NA,NA,NA,NA
+"257",257,"Lemon Tart","Apple Croissant","Raspberry Lemonade",NA,NA,NA,NA,NA
+"258",258,"Lemon Cake","Apple Pie","Berry Tart","Apricot Croissant","Chocolate Croissant","Apricot Danish",NA,NA
+"259",259,"Truffle Cake","Berry Tart","Tuile Cookie","Blueberry Danish","Single Espresso",NA,NA,NA
+"260",260,"Napoleon Cake","Berry Tart","Ganache Cookie","Chocolate Coffee",NA,NA,NA,NA
+"261",261,"Chocolate Eclair",NA,NA,NA,NA,NA,NA,NA
+"262",262,"Truffle Cake","Gongolais Cookie","Apple Croissant",NA,NA,NA,NA,NA
+"263",263,"Apple Pie","Lemon Lemonade",NA,NA,NA,NA,NA,NA
+"264",264,"Chocolate Cake","Casino Cake","Chocolate Coffee",NA,NA,NA,NA,NA
+"265",265,"Raspberry Cookie","Lemon Cookie","Lemon Lemonade","Raspberry Lemonade","Green Tea",NA,NA,NA
+"266",266,"Opera Cake","Berry Tart","Raspberry Cookie","Bottled Water",NA,NA,NA,NA
+"267",267,"Cherry Tart","Gongolais Cookie","Orange Juice","Single Espresso",NA,NA,NA,NA
+"268",268,"Opera Cake","Lemon Cookie",NA,NA,NA,NA,NA,NA
+"269",269,"Apple Tart","Apple Croissant","Apple Danish","Cherry Soda",NA,NA,NA,NA
+"270",270,"Pecan Tart","Chocolate Meringue","Marzipan Cookie",NA,NA,NA,NA,NA
+"271",271,"Blackberry Tart","Almond Croissant","Blueberry Danish",NA,NA,NA,NA,NA
+"272",272,"Coffee Eclair","Blackberry Tart","Single Espresso",NA,NA,NA,NA,NA
+"273",273,"Apple Tart","Apple Croissant","Apple Danish","Cherry Soda",NA,NA,NA,NA
+"274",274,"Blueberry Tart","Cherry Tart","Apricot Croissant","Orange Juice",NA,NA,NA,NA
+"275",275,"Marzipan Cookie","Apple Croissant","Cheese Croissant","Orange Juice",NA,NA,NA,NA
+"276",276,"Truffle Cake","Napoleon Cake","Gongolais Cookie","Green Tea",NA,NA,NA,NA
+"277",277,"Casino Cake","Strawberry Cake","Apple Danish","Lemon Lemonade","Raspberry Lemonade","Cherry Soda",NA,NA
+"278",278,"Lemon Tart","Tuile Cookie","Almond Croissant","Apricot Croissant",NA,NA,NA,NA
+"279",279,"Casino Cake","Apple Croissant","Blueberry Danish","Bottled Water",NA,NA,NA,NA
+"280",280,"Lemon Cake","Casino Cake","Lemon Tart","Ganache Cookie","Raspberry Cookie","Tuile Cookie","Hot Coffee",NA
+"281",281,"Coffee Eclair","Almond Tart","Berry Tart","Blueberry Tart","Raspberry Cookie","Apricot Croissant","Hot Coffee",NA
+"282",282,"Strawberry Cake","Napoleon Cake","Berry Tart","Apple Danish","Bottled Water",NA,NA,NA
+"283",283,"Ganache Cookie","Walnut Cookie",NA,NA,NA,NA,NA,NA
+"284",284,"Napoleon Cake","Apricot Tart","Chocolate Tart","Chocolate Coffee",NA,NA,NA,NA
+"285",285,"Almond Bear Claw","Blueberry Danish",NA,NA,NA,NA,NA,NA
+"286",286,"Lemon Cake","Vanilla Eclair","Lemon Tart",NA,NA,NA,NA,NA
+"287",287,"Chocolate Cake","Cheese Croissant","Orange Juice",NA,NA,NA,NA,NA
+"288",288,"Casino Cake","Cheese Croissant","Apple Danish","Vanilla Frappuccino",NA,NA,NA,NA
+"289",289,"Apple Tart","Apple Croissant","Apple Danish",NA,NA,NA,NA,NA
+"290",290,"Tuile Cookie",NA,NA,NA,NA,NA,NA,NA
+"291",291,"Blueberry Tart","Marzipan Cookie","Tuile Cookie",NA,NA,NA,NA,NA
+"292",292,"Coffee Eclair","Blackberry Tart","Single Espresso",NA,NA,NA,NA,NA
+"293",293,"Vanilla Eclair","Ganache Cookie","Lemon Cookie","Cheese Croissant","Chocolate Croissant","Lemon Lemonade","Orange Juice","Bottled Water"
+"294",294,"Lemon Cake","Berry Tart","Vanilla Meringue","Apricot Croissant","Raspberry Lemonade",NA,NA,NA
+"295",295,"Raspberry Cookie","Cheese Croissant","Orange Juice",NA,NA,NA,NA,NA
+"296",296,"Berry Tart","Ganache Cookie","Raspberry Cookie","Lemon Cookie",NA,NA,NA,NA
+"297",297,"Chocolate Cake","Casino Cake","Chocolate Coffee",NA,NA,NA,NA,NA
+"298",298,"Apple Pie","Walnut Cookie",NA,NA,NA,NA,NA,NA
+"299",299,"Lemon Cake","Raspberry Cookie","Cheese Croissant","Orange Juice","Vanilla Frappuccino",NA,NA,NA
+"300",300,"Blueberry Tart","Apricot Croissant","Hot Coffee",NA,NA,NA,NA,NA
+"301",301,"Opera Cake","Strawberry Cake","Napoleon Cake","Cheese Croissant","Almond Twist","Green Tea",NA,NA
+"302",302,"Lemon Tart","Chocolate Meringue","Almond Croissant","Green Tea","Chocolate Coffee",NA,NA,NA
+"303",303,"Chocolate Cake","Casino Cake","Chocolate Coffee",NA,NA,NA,NA,NA
+"304",304,"Blueberry Tart","Chocolate Tart","Chocolate Croissant",NA,NA,NA,NA,NA
+"305",305,"Truffle Cake","Ganache Cookie","Gongolais Cookie","Chocolate Meringue","Marzipan Cookie","Apple Croissant","Orange Juice",NA
+"306",306,"Truffle Cake","Apple Tart","Blueberry Tart","Apple Croissant","Apple Danish",NA,NA,NA
+"307",307,"Vanilla Eclair","Gongolais Cookie","Orange Juice",NA,NA,NA,NA,NA
+"308",308,"Opera Cake","Marzipan Cookie","Apple Danish",NA,NA,NA,NA,NA
+"309",309,"Blueberry Tart","Apricot Croissant","Hot Coffee",NA,NA,NA,NA,NA
+"310",310,"Apple Tart","Apple Croissant","Apple Danish","Cherry Soda",NA,NA,NA,NA
+"311",311,"Truffle Cake","Gongolais Cookie",NA,NA,NA,NA,NA,NA
+"312",312,"Coffee Eclair","Apple Pie","Almond Twist","Hot Coffee",NA,NA,NA,NA
+"313",313,"Napoleon Cake","Apricot Tart","Pecan Tart","Ganache Cookie","Lemon Cookie","Blueberry Danish","Raspberry Lemonade","Hot Coffee"
+"314",314,"Lemon Cake","Napoleon Cake","Blackberry Tart","Lemon Cookie","Almond Twist",NA,NA,NA
+"315",315,"Strawberry Cake","Napoleon Cake",NA,NA,NA,NA,NA,NA
+"316",316,"Cherry Tart","Apricot Danish","Hot Coffee",NA,NA,NA,NA,NA
+"317",317,"Chocolate Cake","Casino Cake","Chocolate Coffee",NA,NA,NA,NA,NA
+"318",318,"Truffle Cake","Almond Tart","Berry Tart","Vanilla Frappuccino",NA,NA,NA,NA
+"319",319,"Lemon Cake","Strawberry Cake","Almond Tart","Berry Tart","Chocolate Meringue","Apple Danish","Single Espresso",NA
+"320",320,"Apple Tart","Chocolate Croissant",NA,NA,NA,NA,NA,NA
+"321",321,"Coffee Eclair","Blackberry Tart","Single Espresso",NA,NA,NA,NA,NA
+"322",322,"Raspberry Cookie","Tuile Cookie",NA,NA,NA,NA,NA,NA
+"323",323,"Lemon Cake","Lemon Tart",NA,NA,NA,NA,NA,NA
+"324",324,"Chocolate Cake","Casino Cake","Chocolate Coffee",NA,NA,NA,NA,NA
+"325",325,"Lemon Cake","Casino Cake","Lemon Tart",NA,NA,NA,NA,NA
+"326",326,"Coffee Eclair","Apple Pie","Almond Twist","Hot Coffee",NA,NA,NA,NA
+"327",327,"Walnut Cookie","Cheese Croissant","Almond Bear Claw","Hot Coffee","Cherry Soda",NA,NA,NA
+"328",328,"Strawberry Cake","Napoleon Cake","Lemon Cookie",NA,NA,NA,NA,NA
+"329",329,"Lemon Cake","Lemon Tart","Raspberry Cookie","Almond Croissant","Bottled Water",NA,NA,NA
+"330",330,"Truffle Cake","Apricot Tart",NA,NA,NA,NA,NA,NA
+"331",331,"Apple Tart","Apple Croissant","Apple Danish","Cherry Soda",NA,NA,NA,NA
+"332",332,"Chocolate Cake","Casino Cake","Chocolate Coffee",NA,NA,NA,NA,NA
+"333",333,"Truffle Cake","Berry Tart","Pecan Tart","Lemon Cookie","Tuile Cookie","Apple Croissant","Blueberry Danish","Chocolate Coffee"
+"334",334,"Strawberry Cake","Napoleon Cake","Apricot Tart","Cheese Croissant","Green Tea","Chocolate Coffee",NA,NA
+"335",335,"Truffle Cake","Berry Tart","Gongolais Cookie","Walnut Cookie",NA,NA,NA,NA
+"336",336,"Casino Cake","Vanilla Eclair","Almond Tart","Lemon Tart","Apricot Danish","Hot Coffee",NA,NA
+"337",337,"Berry Tart","Lemon Cookie","Chocolate Croissant","Bottled Water",NA,NA,NA,NA
+"338",338,"Truffle Cake","Gongolais Cookie","Tuile Cookie","Almond Croissant","Vanilla Frappuccino",NA,NA,NA
+"339",339,"Chocolate Cake","Tuile Cookie","Vanilla Frappuccino",NA,NA,NA,NA,NA
+"340",340,"Coffee Eclair","Blackberry Tart","Single Espresso",NA,NA,NA,NA,NA
+"341",341,"Truffle Cake","Napoleon Cake","Tuile Cookie","Raspberry Lemonade",NA,NA,NA,NA
+"342",342,"Lemon Cake","Coffee Eclair","Apple Pie","Almond Twist",NA,NA,NA,NA
+"343",343,"Vanilla Meringue",NA,NA,NA,NA,NA,NA,NA
+"344",344,"Bottled Water",NA,NA,NA,NA,NA,NA,NA
+"345",345,"Chocolate Cake","Casino Cake","Chocolate Coffee",NA,NA,NA,NA,NA
+"346",346,"Truffle Cake","Almond Tart","Vanilla Meringue","Almond Croissant",NA,NA,NA,NA
+"347",347,"Vanilla Eclair","Apple Tart","Berry Tart","Cheese Croissant","Bottled Water","Vanilla Frappuccino",NA,NA
+"348",348,"Opera Cake","Strawberry Cake","Marzipan Cookie","Orange Juice",NA,NA,NA,NA
+"349",349,"Napoleon Cake","Apple Pie","Lemon Lemonade","Hot Coffee",NA,NA,NA,NA
+"350",350,"Opera Cake","Strawberry Cake","Napoleon Cake","Apple Pie","Apple Tart","Vanilla Frappuccino",NA,NA
+"351",351,"Truffle Cake","Gongolais Cookie","Apricot Danish",NA,NA,NA,NA,NA
+"352",352,"Vanilla Meringue","Walnut Cookie","Hot Coffee",NA,NA,NA,NA,NA
+"353",353,"Strawberry Cake","Napoleon Cake","Apple Croissant",NA,NA,NA,NA,NA
+"354",354,"Chocolate Cake","Apricot Tart","Marzipan Cookie","Tuile Cookie","Apple Croissant","Apple Danish",NA,NA
+"355",355,"Chocolate Tart","Apricot Croissant","Vanilla Frappuccino",NA,NA,NA,NA,NA
+"356",356,"Lemon Cake","Apple Croissant","Raspberry Lemonade",NA,NA,NA,NA,NA
+"357",357,"Berry Tart","Green Tea","Bottled Water",NA,NA,NA,NA,NA
+"358",358,"Cherry Tart","Apricot Danish",NA,NA,NA,NA,NA,NA
+"359",359,"Truffle Cake","Almond Tart","Blueberry Tart",NA,NA,NA,NA,NA
+"360",360,"Cheese Croissant","Almond Twist",NA,NA,NA,NA,NA,NA
+"361",361,"Strawberry Cake","Almond Croissant","Apple Croissant",NA,NA,NA,NA,NA
+"362",362,"Napoleon Cake","Berry Tart","Chocolate Meringue",NA,NA,NA,NA,NA
+"363",363,"Berry Tart","Bottled Water",NA,NA,NA,NA,NA,NA
+"364",364,"Raspberry Cookie","Marzipan Cookie","Tuile Cookie",NA,NA,NA,NA,NA
+"365",365,"Napoleon Cake","Cherry Tart","Gongolais Cookie",NA,NA,NA,NA,NA
+"366",366,"Truffle Cake","Vanilla Eclair","Gongolais Cookie",NA,NA,NA,NA,NA
+"367",367,"Almond Tart","Walnut Cookie",NA,NA,NA,NA,NA,NA
+"368",368,"Opera Cake","Blackberry Tart","Blueberry Tart","Pecan Tart","Cheese Croissant","Hot Coffee",NA,NA
+"369",369,"Strawberry Cake","Vanilla Eclair","Apple Tart","Chocolate Meringue","Chocolate Croissant",NA,NA,NA
+"370",370,"Napoleon Cake","Vanilla Meringue","Tuile Cookie",NA,NA,NA,NA,NA
+"371",371,"Coffee Eclair","Napoleon Cake","Blackberry Tart","Single Espresso",NA,NA,NA,NA
+"372",372,"Opera Cake","Cherry Soda","Single Espresso",NA,NA,NA,NA,NA
+"373",373,"Truffle Cake","Ganache Cookie","Almond Croissant","Apple Croissant","Green Tea",NA,NA,NA
+"374",374,"Strawberry Cake","Napoleon Cake",NA,NA,NA,NA,NA,NA
+"375",375,"Lemon Cake","Lemon Tart","Tuile Cookie",NA,NA,NA,NA,NA
+"376",376,"Strawberry Cake","Napoleon Cake","Vanilla Meringue","Cheese Croissant","Vanilla Frappuccino",NA,NA,NA
+"377",377,"Lemon Cake","Apricot Tart","Lemon Tart","Raspberry Lemonade",NA,NA,NA,NA
+"378",378,"Blackberry Tart","Cherry Tart","Raspberry Lemonade",NA,NA,NA,NA,NA
+"379",379,"Berry Tart","Tuile Cookie","Cherry Soda",NA,NA,NA,NA,NA
+"380",380,"Truffle Cake","Gongolais Cookie","Vanilla Frappuccino",NA,NA,NA,NA,NA
+"381",381,"Single Espresso",NA,NA,NA,NA,NA,NA,NA
+"382",382,"Coffee Eclair","Blackberry Tart","Single Espresso",NA,NA,NA,NA,NA
+"383",383,"Vanilla Eclair","Tuile Cookie","Vanilla Frappuccino",NA,NA,NA,NA,NA
+"384",384,"Vanilla Eclair","Chocolate Meringue","Walnut Cookie",NA,NA,NA,NA,NA
+"385",385,"Chocolate Cake","Strawberry Cake","Almond Tart","Ganache Cookie",NA,NA,NA,NA
+"386",386,"Raspberry Lemonade",NA,NA,NA,NA,NA,NA,NA
+"387",387,"Truffle Cake","Raspberry Cookie","Vanilla Meringue","Bottled Water",NA,NA,NA,NA
+"388",388,"Chocolate Meringue",NA,NA,NA,NA,NA,NA,NA
+"389",389,"Strawberry Cake","Napoleon Cake",NA,NA,NA,NA,NA,NA
+"390",390,"Apple Tart","Chocolate Tart","Vanilla Meringue","Walnut Cookie","Apple Croissant","Vanilla Frappuccino",NA,NA
+"391",391,"Opera Cake","Cherry Tart","Apricot Danish",NA,NA,NA,NA,NA
+"392",392,"Coffee Eclair","Apple Pie","Chocolate Croissant","Almond Twist","Hot Coffee",NA,NA,NA
+"393",393,"Napoleon Cake","Apricot Tart","Cherry Tart","Raspberry Cookie","Chocolate Meringue","Cheese Croissant","Lemon Lemonade",NA
+"394",394,"Blackberry Tart",NA,NA,NA,NA,NA,NA,NA
+"395",395,"Truffle Cake","Chocolate Tart","Gongolais Cookie","Lemon Lemonade","Cherry Soda",NA,NA,NA
+"396",396,"Raspberry Cookie","Cheese Croissant","Chocolate Coffee",NA,NA,NA,NA,NA
+"397",397,"Coffee Eclair","Blackberry Tart","Single Espresso",NA,NA,NA,NA,NA
+"398",398,"Blueberry Tart","Apricot Croissant","Hot Coffee",NA,NA,NA,NA,NA
+"399",399,"Coffee Eclair","Blackberry Tart","Single Espresso",NA,NA,NA,NA,NA
+"400",400,"Lemon Cake","Cherry Soda",NA,NA,NA,NA,NA,NA
+"401",401,"Casino Cake",NA,NA,NA,NA,NA,NA,NA
+"402",402,"Apple Danish","Blueberry Danish","Single Espresso",NA,NA,NA,NA,NA
+"403",403,"Opera Cake","Strawberry Cake","Almond Tart",NA,NA,NA,NA,NA
+"404",404,"Chocolate Croissant","Apple Danish",NA,NA,NA,NA,NA,NA
+"405",405,"Coffee Eclair","Chocolate Tart","Chocolate Croissant","Apricot Danish","Chocolate Coffee",NA,NA,NA
+"406",406,"Truffle Cake","Gongolais Cookie",NA,NA,NA,NA,NA,NA
+"407",407,"Apricot Croissant","Chocolate Croissant","Apple Danish","Orange Juice",NA,NA,NA,NA
+"408",408,"Berry Tart","Chocolate Coffee",NA,NA,NA,NA,NA,NA
+"409",409,"Opera Cake","Cherry Tart","Walnut Cookie","Apricot Danish","Almond Twist","Cherry Soda",NA,NA
+"410",410,"Marzipan Cookie","Cheese Croissant","Orange Juice",NA,NA,NA,NA,NA
+"411",411,"Marzipan Cookie","Tuile Cookie",NA,NA,NA,NA,NA,NA
+"412",412,"Marzipan Cookie","Tuile Cookie",NA,NA,NA,NA,NA,NA
+"413",413,"Strawberry Cake","Napoleon Cake","Apricot Tart","Ganache Cookie",NA,NA,NA,NA
+"414",414,"Lemon Cake","Truffle Cake","Coffee Eclair","Almond Tart","Ganache Cookie","Gongolais Cookie","Almond Croissant","Apple Croissant"
+"415",415,"Coffee Eclair","Blackberry Tart","Single Espresso",NA,NA,NA,NA,NA
+"416",416,"Strawberry Cake","Truffle Cake","Berry Tart","Raspberry Cookie","Orange Juice",NA,NA,NA
+"417",417,"Chocolate Tart","Walnut Cookie","Vanilla Frappuccino",NA,NA,NA,NA,NA
+"418",418,"Almond Croissant",NA,NA,NA,NA,NA,NA,NA
+"419",419,"Truffle Cake","Cheese Croissant","Orange Juice",NA,NA,NA,NA,NA
+"420",420,"Marzipan Cookie","Tuile Cookie","Apple Croissant",NA,NA,NA,NA,NA
+"421",421,"Coffee Eclair","Blackberry Tart","Single Espresso",NA,NA,NA,NA,NA
+"422",422,"Blueberry Tart","Apricot Croissant","Hot Coffee",NA,NA,NA,NA,NA
+"423",423,"Lemon Cake","Casino Cake","Vanilla Eclair","Chocolate Meringue","Apricot Croissant",NA,NA,NA
+"424",424,"Apple Tart","Apricot Tart",NA,NA,NA,NA,NA,NA
+"425",425,"Blueberry Tart","Bottled Water",NA,NA,NA,NA,NA,NA
+"426",426,"Chocolate Cake","Chocolate Tart","Lemon Cookie",NA,NA,NA,NA,NA
+"427",427,"Vanilla Meringue",NA,NA,NA,NA,NA,NA,NA
+"428",428,"Strawberry Cake","Almond Tart","Marzipan Cookie","Tuile Cookie","Green Tea",NA,NA,NA
+"429",429,"Berry Tart",NA,NA,NA,NA,NA,NA,NA
+"430",430,"Strawberry Cake","Lemon Tart","Vanilla Frappuccino",NA,NA,NA,NA,NA
+"431",431,"Cheese Croissant","Orange Juice",NA,NA,NA,NA,NA,NA
+"432",432,"Vanilla Frappuccino",NA,NA,NA,NA,NA,NA,NA
+"433",433,"Vanilla Eclair","Chocolate Tart","Raspberry Cookie","Walnut Cookie","Green Tea","Vanilla Frappuccino",NA,NA
+"434",434,"Chocolate Cake","Truffle Cake","Cheese Croissant","Chocolate Coffee",NA,NA,NA,NA
+"435",435,"Napoleon Cake","Cherry Tart","Apricot Danish","Almond Bear Claw","Lemon Lemonade","Vanilla Frappuccino",NA,NA
+"436",436,"Casino Cake","Strawberry Cake","Apple Pie","Blueberry Danish",NA,NA,NA,NA
+"437",437,"Strawberry Cake","Truffle Cake","Napoleon Cake","Raspberry Cookie","Lemon Cookie",NA,NA,NA
+"438",438,"Strawberry Cake","Lemon Cookie","Apricot Croissant",NA,NA,NA,NA,NA
+"439",439,"Vanilla Eclair","Vanilla Frappuccino",NA,NA,NA,NA,NA,NA
+"440",440,"Casino Cake","Lemon Tart",NA,NA,NA,NA,NA,NA
+"441",441,"Casino Cake","Strawberry Cake","Napoleon Cake","Lemon Lemonade",NA,NA,NA,NA
+"442",442,"Chocolate Cake","Casino Cake","Chocolate Coffee",NA,NA,NA,NA,NA
+"443",443,"Apple Pie","Lemon Tart","Cheese Croissant","Orange Juice",NA,NA,NA,NA
+"444",444,"Blueberry Tart","Apricot Croissant","Hot Coffee",NA,NA,NA,NA,NA
+"445",445,"Truffle Cake","Coffee Eclair","Gongolais Cookie","Apricot Croissant","Orange Juice",NA,NA,NA
+"446",446,"Strawberry Cake","Cheese Croissant","Vanilla Frappuccino",NA,NA,NA,NA,NA
+"447",447,"Lemon Tart","Marzipan Cookie","Apple Danish",NA,NA,NA,NA,NA
+"448",448,"Lemon Cake","Tuile Cookie","Lemon Lemonade",NA,NA,NA,NA,NA
+"449",449,"Raspberry Cookie",NA,NA,NA,NA,NA,NA,NA
+"450",450,"Strawberry Cake","Napoleon Cake","Apple Croissant","Cheese Croissant",NA,NA,NA,NA
+"451",451,"Strawberry Cake","Tuile Cookie","Vanilla Frappuccino",NA,NA,NA,NA,NA
+"452",452,"Chocolate Meringue","Marzipan Cookie","Chocolate Croissant","Single Espresso",NA,NA,NA,NA
+"453",453,"Opera Cake","Cherry Tart","Apricot Danish",NA,NA,NA,NA,NA
+"454",454,"Napoleon Cake","Marzipan Cookie","Tuile Cookie",NA,NA,NA,NA,NA
+"455",455,"Berry Tart","Blackberry Tart","Apricot Danish","Apple Danish",NA,NA,NA,NA
+"456",456,"Berry Tart","Marzipan Cookie","Tuile Cookie",NA,NA,NA,NA,NA
+"457",457,"Apple Tart","Blueberry Tart","Chocolate Croissant",NA,NA,NA,NA,NA
+"458",458,"Chocolate Cake","Casino Cake","Apricot Tart","Cherry Tart","Lemon Cookie","Apple Danish","Chocolate Coffee","Vanilla Frappuccino"
+"459",459,"Berry Tart","Apricot Croissant","Bottled Water",NA,NA,NA,NA,NA
+"460",460,"Blueberry Tart","Apricot Croissant","Hot Coffee",NA,NA,NA,NA,NA
+"461",461,"Casino Cake","Vanilla Eclair","Blueberry Tart",NA,NA,NA,NA,NA
+"462",462,"Coffee Eclair","Blackberry Tart","Single Espresso",NA,NA,NA,NA,NA
+"463",463,"Berry Tart","Vanilla Meringue","Almond Croissant","Blueberry Danish","Bottled Water",NA,NA,NA
+"464",464,"Lemon Cake","Raspberry Cookie","Apricot Croissant",NA,NA,NA,NA,NA
+"465",465,"Chocolate Cake","Apple Tart","Pecan Tart","Gongolais Cookie","Single Espresso",NA,NA,NA
+"466",466,"Blueberry Tart","Pecan Tart","Apricot Croissant","Single Espresso",NA,NA,NA,NA
+"467",467,"Raspberry Cookie","Lemon Cookie","Lemon Lemonade","Raspberry Lemonade",NA,NA,NA,NA
+"468",468,"Lemon Cake","Opera Cake","Walnut Cookie","Raspberry Lemonade","Orange Juice","Green Tea","Chocolate Coffee",NA
+"469",469,"Truffle Cake","Blueberry Tart","Chocolate Meringue","Cherry Soda",NA,NA,NA,NA
+"470",470,"Chocolate Tart","Walnut Cookie","Vanilla Frappuccino",NA,NA,NA,NA,NA
+"471",471,"Apple Pie","Blueberry Tart","Apricot Croissant","Hot Coffee",NA,NA,NA,NA
+"472",472,"Strawberry Cake","Napoleon Cake","Apricot Tart",NA,NA,NA,NA,NA
+"473",473,"Chocolate Tart","Vanilla Frappuccino",NA,NA,NA,NA,NA,NA
+"474",474,"Apple Pie","Apricot Croissant",NA,NA,NA,NA,NA,NA
+"475",475,"Apple Tart","Cheese Croissant","Orange Juice","Chocolate Coffee",NA,NA,NA,NA
+"476",476,"Raspberry Cookie","Lemon Cookie","Lemon Lemonade","Raspberry Lemonade",NA,NA,NA,NA
+"477",477,"Napoleon Cake","Apricot Tart","Berry Tart","Cheese Croissant","Almond Bear Claw","Single Espresso",NA,NA
+"478",478,"Berry Tart","Blackberry Tart","Vanilla Meringue","Vanilla Frappuccino",NA,NA,NA,NA
+"479",479,"Opera Cake","Cherry Tart","Apricot Danish",NA,NA,NA,NA,NA
+"480",480,"Opera Cake","Ganache Cookie","Bottled Water",NA,NA,NA,NA,NA
+"481",481,"Opera Cake","Chocolate Coffee",NA,NA,NA,NA,NA,NA
+"482",482,"Napoleon Cake",NA,NA,NA,NA,NA,NA,NA
+"483",483,"Blueberry Tart","Lemon Cookie","Almond Croissant","Apple Croissant","Cherry Soda",NA,NA,NA
+"484",484,"Lemon Tart",NA,NA,NA,NA,NA,NA,NA
+"485",485,"Cheese Croissant","Orange Juice",NA,NA,NA,NA,NA,NA
+"486",486,"Strawberry Cake","Chocolate Croissant",NA,NA,NA,NA,NA,NA
+"487",487,"Raspberry Cookie","Lemon Cookie","Lemon Lemonade","Raspberry Lemonade","Green Tea",NA,NA,NA
+"488",488,"Truffle Cake","Gongolais Cookie",NA,NA,NA,NA,NA,NA
+"489",489,"Almond Tart","Apple Croissant",NA,NA,NA,NA,NA,NA
+"490",490,"Strawberry Cake","Chocolate Tart","Lemon Lemonade","Vanilla Frappuccino",NA,NA,NA,NA
+"491",491,"Blueberry Danish","Vanilla Frappuccino",NA,NA,NA,NA,NA,NA
+"492",492,"Berry Tart","Blackberry Tart","Apple Croissant",NA,NA,NA,NA,NA
+"493",493,"Truffle Cake","Vanilla Meringue","Cheese Croissant","Orange Juice","Bottled Water",NA,NA,NA
+"494",494,"Apricot Tart","Almond Croissant","Almond Bear Claw",NA,NA,NA,NA,NA
+"495",495,"Casino Cake","Opera Cake","Cherry Tart","Apricot Danish","Vanilla Frappuccino",NA,NA,NA
+"496",496,"Apple Tart","Apple Croissant","Apple Danish","Cherry Soda",NA,NA,NA,NA
+"497",497,"Chocolate Tart","Marzipan Cookie","Tuile Cookie",NA,NA,NA,NA,NA
+"498",498,"Chocolate Tart","Walnut Cookie","Vanilla Frappuccino",NA,NA,NA,NA,NA
+"499",499,"Berry Tart","Bottled Water",NA,NA,NA,NA,NA,NA
+"500",500,"Chocolate Cake","Casino Cake","Chocolate Coffee",NA,NA,NA,NA,NA
+"501",501,"Chocolate Cake","Ganache Cookie","Cheese Croissant","Blueberry Danish",NA,NA,NA,NA
+"502",502,"Berry Tart","Marzipan Cookie","Bottled Water",NA,NA,NA,NA,NA
+"503",503,"Apple Tart","Apple Croissant","Apple Danish",NA,NA,NA,NA,NA
+"504",504,"Truffle Cake","Cherry Tart",NA,NA,NA,NA,NA,NA
+"505",505,"Coffee Eclair","Apple Pie","Almond Twist","Hot Coffee",NA,NA,NA,NA
+"506",506,"Chocolate Cake","Pecan Tart",NA,NA,NA,NA,NA,NA
+"507",507,"Raspberry Cookie","Almond Croissant",NA,NA,NA,NA,NA,NA
+"508",508,"Chocolate Cake","Berry Tart","Blueberry Tart","Apricot Croissant",NA,NA,NA,NA
+"509",509,"Vanilla Eclair",NA,NA,NA,NA,NA,NA,NA
+"510",510,"Apricot Tart","Vanilla Meringue","Marzipan Cookie","Tuile Cookie","Chocolate Coffee",NA,NA,NA
+"511",511,"Strawberry Cake","Napoleon Cake","Apple Tart","Chocolate Tart","Almond Twist",NA,NA,NA
+"512",512,"Almond Tart","Pecan Tart","Almond Twist",NA,NA,NA,NA,NA
+"513",513,"Opera Cake","Coffee Eclair","Apple Pie","Ganache Cookie","Raspberry Cookie",NA,NA,NA
+"514",514,"Ganache Cookie","Apple Croissant","Apricot Croissant",NA,NA,NA,NA,NA
+"515",515,"Chocolate Cake","Lemon Cake","Truffle Cake","Raspberry Cookie","Apricot Croissant","Orange Juice","Bottled Water",NA
+"516",516,"Chocolate Cake","Casino Cake","Chocolate Coffee",NA,NA,NA,NA,NA
+"517",517,"Chocolate Croissant","Almond Twist","Vanilla Frappuccino",NA,NA,NA,NA,NA
+"518",518,"Blueberry Tart","Tuile Cookie","Apricot Croissant","Hot Coffee",NA,NA,NA,NA
+"519",519,"Opera Cake","Cherry Tart","Apricot Danish",NA,NA,NA,NA,NA
+"520",520,"Chocolate Cake","Truffle Cake","Raspberry Cookie","Cheese Croissant","Apricot Danish","Chocolate Coffee","Cherry Soda",NA
+"521",521,"Berry Tart","Tuile Cookie","Walnut Cookie","Bottled Water",NA,NA,NA,NA
+"522",522,"Apricot Tart","Blackberry Tart","Lemon Cookie",NA,NA,NA,NA,NA
+"523",523,"Vanilla Eclair","Gongolais Cookie","Raspberry Cookie",NA,NA,NA,NA,NA
+"524",524,"Apple Pie","Berry Tart","Vanilla Meringue","Tuile Cookie","Raspberry Lemonade","Green Tea","Hot Coffee",NA
+"525",525,"Gongolais Cookie","Blueberry Danish",NA,NA,NA,NA,NA,NA
+"526",526,"Coffee Eclair","Apple Pie","Almond Twist","Hot Coffee",NA,NA,NA,NA
+"527",527,"Chocolate Cake","Casino Cake","Blackberry Tart","Blueberry Tart","Gongolais Cookie","Apricot Danish","Chocolate Coffee",NA
+"528",528,"Raspberry Lemonade","Orange Juice",NA,NA,NA,NA,NA,NA
+"529",529,"Chocolate Eclair","Napoleon Cake","Almond Croissant",NA,NA,NA,NA,NA
+"530",530,"Strawberry Cake","Apricot Tart","Almond Twist","Hot Coffee","Single Espresso",NA,NA,NA
+"531",531,"Chocolate Cake","Blueberry Tart",NA,NA,NA,NA,NA,NA
+"532",532,"Berry Tart","Marzipan Cookie","Tuile Cookie","Almond Twist","Cherry Soda",NA,NA,NA
+"533",533,"Apricot Tart","Tuile Cookie",NA,NA,NA,NA,NA,NA
+"534",534,"Apricot Tart","Cherry Tart",NA,NA,NA,NA,NA,NA
+"535",535,"Berry Tart","Walnut Cookie","Apple Croissant","Apricot Danish","Raspberry Lemonade","Single Espresso",NA,NA
+"536",536,"Blackberry Tart","Chocolate Croissant","Chocolate Coffee","Cherry Soda",NA,NA,NA,NA
+"537",537,"Blackberry Tart","Tuile Cookie",NA,NA,NA,NA,NA,NA
+"538",538,"Opera Cake","Cherry Tart","Apricot Danish",NA,NA,NA,NA,NA
+"539",539,"Apple Tart","Apple Croissant","Apple Danish","Cherry Soda",NA,NA,NA,NA
+"540",540,"Cheese Croissant","Apricot Danish","Orange Juice",NA,NA,NA,NA,NA
+"541",541,"Blueberry Tart","Apricot Croissant","Hot Coffee",NA,NA,NA,NA,NA
+"542",542,"Coffee Eclair","Napoleon Cake","Blackberry Tart","Green Tea",NA,NA,NA,NA
+"543",543,"Coffee Eclair","Apple Pie","Almond Twist","Hot Coffee",NA,NA,NA,NA
+"544",544,"Apple Tart","Apple Croissant","Apple Danish","Cherry Soda",NA,NA,NA,NA
+"545",545,"Berry Tart",NA,NA,NA,NA,NA,NA,NA
+"546",546,"Truffle Cake","Vanilla Eclair","Berry Tart","Ganache Cookie","Cheese Croissant","Almond Bear Claw",NA,NA
+"547",547,"Chocolate Cake","Opera Cake","Almond Tart","Almond Bear Claw","Lemon Lemonade",NA,NA,NA
+"548",548,"Almond Tart","Berry Tart","Cherry Tart","Vanilla Frappuccino",NA,NA,NA,NA
+"549",549,"Apple Pie","Almond Twist","Almond Bear Claw",NA,NA,NA,NA,NA
+"550",550,"Lemon Cake","Opera Cake","Cherry Tart","Lemon Tart","Apricot Danish",NA,NA,NA
+"551",551,"Opera Cake","Truffle Cake","Gongolais Cookie",NA,NA,NA,NA,NA
+"552",552,"Napoleon Cake","Lemon Cookie","Marzipan Cookie","Chocolate Croissant",NA,NA,NA,NA
+"553",553,"Strawberry Cake","Coffee Eclair","Napoleon Cake",NA,NA,NA,NA,NA
+"554",554,"Chocolate Cake","Apple Tart","Apricot Danish",NA,NA,NA,NA,NA
+"555",555,"Tuile Cookie","Walnut Cookie","Almond Twist",NA,NA,NA,NA,NA
+"556",556,"Napoleon Cake","Apple Pie","Tuile Cookie","Cheese Croissant","Raspberry Lemonade",NA,NA,NA
+"557",557,"Berry Tart","Bottled Water",NA,NA,NA,NA,NA,NA
+"558",558,"Strawberry Cake","Apple Pie","Raspberry Lemonade","Green Tea",NA,NA,NA,NA
+"559",559,"Chocolate Tart","Vanilla Frappuccino",NA,NA,NA,NA,NA,NA
+"560",560,"Blueberry Tart","Pecan Tart","Marzipan Cookie","Apricot Croissant","Hot Coffee",NA,NA,NA
+"561",561,"Casino Cake","Berry Tart","Orange Juice",NA,NA,NA,NA,NA
+"562",562,"Strawberry Cake","Napoleon Cake","Ganache Cookie","Green Tea",NA,NA,NA,NA
+"563",563,"Chocolate Tart","Walnut Cookie","Vanilla Frappuccino",NA,NA,NA,NA,NA
+"564",564,"Raspberry Cookie","Tuile Cookie","Cheese Croissant","Orange Juice",NA,NA,NA,NA
+"565",565,"Chocolate Eclair","Chocolate Coffee",NA,NA,NA,NA,NA,NA
+"566",566,"Opera Cake","Cherry Tart","Apricot Danish",NA,NA,NA,NA,NA
+"567",567,"Truffle Cake","Napoleon Cake","Berry Tart","Cherry Tart","Lemon Lemonade",NA,NA,NA
+"568",568,"Strawberry Cake","Napoleon Cake","Chocolate Croissant",NA,NA,NA,NA,NA
+"569",569,"Apricot Tart","Berry Tart","Green Tea","Bottled Water",NA,NA,NA,NA
+"570",570,"Marzipan Cookie","Tuile Cookie",NA,NA,NA,NA,NA,NA
+"571",571,"Blueberry Tart","Apricot Croissant",NA,NA,NA,NA,NA,NA
+"572",572,"Chocolate Eclair","Berry Tart","Gongolais Cookie",NA,NA,NA,NA,NA
+"573",573,"Chocolate Cake","Almond Tart","Raspberry Lemonade",NA,NA,NA,NA,NA
+"574",574,"Chocolate Cake","Cherry Tart","Marzipan Cookie","Apple Croissant","Chocolate Croissant","Almond Twist","Blueberry Danish","Vanilla Frappuccino"
+"575",575,"Truffle Cake","Coffee Eclair","Gongolais Cookie",NA,NA,NA,NA,NA
+"576",576,"Strawberry Cake","Coffee Eclair",NA,NA,NA,NA,NA,NA
+"577",577,"Coffee Eclair","Blackberry Tart","Single Espresso",NA,NA,NA,NA,NA
+"578",578,"Strawberry Cake","Blackberry Tart",NA,NA,NA,NA,NA,NA
+"579",579,"Lemon Cake","Blueberry Tart","Cherry Tart","Pecan Tart","Chocolate Meringue","Walnut Cookie","Apple Danish","Chocolate Coffee"
+"580",580,"Apricot Tart","Almond Croissant","Orange Juice",NA,NA,NA,NA,NA
+"581",581,"Lemon Cookie","Chocolate Meringue","Apple Croissant",NA,NA,NA,NA,NA
+"582",582,"Strawberry Cake","Coffee Eclair","Blackberry Tart","Cherry Tart",NA,NA,NA,NA
+"583",583,"Truffle Cake","Gongolais Cookie",NA,NA,NA,NA,NA,NA
+"584",584,"Tuile Cookie",NA,NA,NA,NA,NA,NA,NA
+"585",585,"Raspberry Cookie","Cheese Croissant","Orange Juice",NA,NA,NA,NA,NA
+"586",586,"Bottled Water",NA,NA,NA,NA,NA,NA,NA
+"587",587,"Blackberry Tart","Lemon Tart","Marzipan Cookie","Tuile Cookie",NA,NA,NA,NA
+"588",588,"Chocolate Cake","Apple Pie","Cherry Tart","Raspberry Cookie","Vanilla Frappuccino",NA,NA,NA
+"589",589,"Truffle Cake","Gongolais Cookie",NA,NA,NA,NA,NA,NA
+"590",590,"Coffee Eclair","Apple Pie","Almond Twist",NA,NA,NA,NA,NA
+"591",591,"Coffee Eclair","Apple Pie","Almond Twist","Hot Coffee",NA,NA,NA,NA
+"592",592,"Chocolate Eclair","Blueberry Tart","Cheese Croissant","Blueberry Danish","Orange Juice",NA,NA,NA
+"593",593,"Raspberry Cookie","Lemon Cookie","Lemon Lemonade","Raspberry Lemonade",NA,NA,NA,NA
+"594",594,"Chocolate Cake","Napoleon Cake","Almond Croissant","Apple Croissant",NA,NA,NA,NA
+"595",595,"Lemon Cake","Apricot Croissant","Cherry Soda",NA,NA,NA,NA,NA
+"596",596,"Casino Cake","Marzipan Cookie","Tuile Cookie","Green Tea",NA,NA,NA,NA
+"597",597,"Lemon Cake","Lemon Tart",NA,NA,NA,NA,NA,NA
+"598",598,"Apricot Danish",NA,NA,NA,NA,NA,NA,NA
+"599",599,"Opera Cake","Almond Tart","Cherry Tart","Apricot Danish",NA,NA,NA,NA
+"600",600,"Strawberry Cake","Napoleon Cake","Apple Tart","Cherry Soda",NA,NA,NA,NA
+"601",601,"Lemon Cake","Chocolate Eclair","Lemon Tart",NA,NA,NA,NA,NA
+"602",602,"Coffee Eclair","Blackberry Tart","Single Espresso",NA,NA,NA,NA,NA
+"603",603,"Pecan Tart","Gongolais Cookie","Marzipan Cookie",NA,NA,NA,NA,NA
+"604",604,"Apricot Tart",NA,NA,NA,NA,NA,NA,NA
+"605",605,"Blackberry Tart","Blueberry Tart","Vanilla Meringue",NA,NA,NA,NA,NA
+"606",606,"Opera Cake","Cherry Tart","Apricot Danish",NA,NA,NA,NA,NA
+"607",607,"Lemon Tart",NA,NA,NA,NA,NA,NA,NA
+"608",608,"Truffle Cake","Gongolais Cookie",NA,NA,NA,NA,NA,NA
+"609",609,"Lemon Cake","Lemon Tart",NA,NA,NA,NA,NA,NA
+"610",610,"Apple Tart","Apple Danish","Almond Twist","Blueberry Danish",NA,NA,NA,NA
+"611",611,"Casino Cake","Opera Cake","Almond Tart","Chocolate Croissant",NA,NA,NA,NA
+"612",612,"Almond Croissant","Bottled Water",NA,NA,NA,NA,NA,NA
+"613",613,"Apricot Tart","Pecan Tart","Gongolais Cookie","Vanilla Frappuccino",NA,NA,NA,NA
+"614",614,"Strawberry Cake","Apple Tart","Vanilla Meringue","Hot Coffee",NA,NA,NA,NA
+"615",615,"Apricot Tart","Marzipan Cookie","Apricot Danish","Apple Danish",NA,NA,NA,NA
+"616",616,"Chocolate Cake","Casino Cake","Chocolate Coffee",NA,NA,NA,NA,NA
+"617",617,"Coffee Eclair","Almond Tart",NA,NA,NA,NA,NA,NA
+"618",618,"Lemon Cake","Casino Cake","Chocolate Croissant","Blueberry Danish",NA,NA,NA,NA
+"619",619,"Coffee Eclair","Apple Pie","Almond Twist","Hot Coffee",NA,NA,NA,NA
+"620",620,"Blueberry Danish","Green Tea","Bottled Water",NA,NA,NA,NA,NA
+"621",621,"Opera Cake","Berry Tart","Almond Croissant",NA,NA,NA,NA,NA
+"622",622,"Casino Cake","Apple Tart","Almond Croissant","Apricot Croissant","Single Espresso",NA,NA,NA
+"623",623,"Lemon Cake","Lemon Tart","Apricot Croissant",NA,NA,NA,NA,NA
+"624",624,"Almond Tart","Ganache Cookie","Tuile Cookie","Apple Croissant",NA,NA,NA,NA
+"625",625,"Napoleon Cake","Chocolate Tart","Marzipan Cookie","Tuile Cookie","Hot Coffee",NA,NA,NA
+"626",626,"Almond Tart","Apple Pie","Blueberry Tart","Apricot Croissant",NA,NA,NA,NA
+"627",627,"Apple Tart","Apple Croissant","Apple Danish","Cherry Soda",NA,NA,NA,NA
+"628",628,"Opera Cake","Cherry Tart","Walnut Cookie","Apricot Danish","Lemon Lemonade",NA,NA,NA
+"629",629,"Raspberry Cookie","Lemon Cookie","Lemon Lemonade","Raspberry Lemonade","Green Tea",NA,NA,NA
+"630",630,"Berry Tart","Chocolate Tart","Walnut Cookie","Bottled Water","Vanilla Frappuccino",NA,NA,NA
+"631",631,"Almond Bear Claw",NA,NA,NA,NA,NA,NA,NA
+"632",632,"Chocolate Cake","Casino Cake","Chocolate Coffee",NA,NA,NA,NA,NA
+"633",633,"Opera Cake","Cherry Tart","Pecan Tart","Apricot Danish",NA,NA,NA,NA
+"634",634,"Chocolate Tart","Walnut Cookie","Green Tea","Vanilla Frappuccino",NA,NA,NA,NA
+"635",635,"Chocolate Cake","Chocolate Eclair","Lemon Tart","Vanilla Meringue","Green Tea",NA,NA,NA
+"636",636,"Opera Cake","Cherry Tart","Apricot Danish",NA,NA,NA,NA,NA
+"637",637,"Truffle Cake","Ganache Cookie","Vanilla Meringue","Marzipan Cookie","Tuile Cookie","Blueberry Danish","Orange Juice","Single Espresso"
+"638",638,"Apple Tart","Apple Croissant","Apple Danish","Cherry Soda",NA,NA,NA,NA
+"639",639,"Chocolate Cake","Casino Cake","Almond Croissant","Chocolate Coffee","Vanilla Frappuccino",NA,NA,NA
+"640",640,"Truffle Cake","Gongolais Cookie","Cheese Croissant",NA,NA,NA,NA,NA
+"641",641,"Berry Tart","Cheese Croissant","Orange Juice",NA,NA,NA,NA,NA
+"642",642,"Chocolate Cake","Almond Croissant","Green Tea","Chocolate Coffee",NA,NA,NA,NA
+"643",643,"Apple Pie","Chocolate Tart","Apricot Danish","Vanilla Frappuccino",NA,NA,NA,NA
+"644",644,"Chocolate Cake","Casino Cake","Chocolate Coffee",NA,NA,NA,NA,NA
+"645",645,"Blueberry Tart","Apricot Croissant","Hot Coffee",NA,NA,NA,NA,NA
+"646",646,"Pecan Tart","Almond Twist","Blueberry Danish","Orange Juice",NA,NA,NA,NA
+"647",647,"Berry Tart","Almond Croissant","Bottled Water",NA,NA,NA,NA,NA
+"648",648,"Apple Danish","Blueberry Danish",NA,NA,NA,NA,NA,NA
+"649",649,"Lemon Cake","Chocolate Tart","Chocolate Meringue","Almond Twist","Raspberry Lemonade","Single Espresso",NA,NA
+"650",650,"Almond Croissant","Apple Danish","Bottled Water",NA,NA,NA,NA,NA
+"651",651,"Apple Tart","Apple Croissant","Apple Danish","Cherry Soda",NA,NA,NA,NA
+"652",652,"Lemon Cookie","Marzipan Cookie","Tuile Cookie","Chocolate Croissant","Blueberry Danish","Hot Coffee","Cherry Soda",NA
+"653",653,"Chocolate Cake","Almond Twist","Chocolate Coffee",NA,NA,NA,NA,NA
+"654",654,"Cherry Tart","Chocolate Meringue","Bottled Water",NA,NA,NA,NA,NA
+"655",655,"Strawberry Cake","Napoleon Cake",NA,NA,NA,NA,NA,NA
+"656",656,"Truffle Cake","Gongolais Cookie",NA,NA,NA,NA,NA,NA
+"657",657,"Cheese Croissant","Orange Juice",NA,NA,NA,NA,NA,NA
+"658",658,"Chocolate Cake","Vanilla Meringue","Marzipan Cookie","Tuile Cookie",NA,NA,NA,NA
+"659",659,"Truffle Cake",NA,NA,NA,NA,NA,NA,NA
+"660",660,"Casino Cake","Gongolais Cookie","Cheese Croissant","Orange Juice",NA,NA,NA,NA
+"661",661,"Coffee Eclair","Blackberry Tart","Single Espresso",NA,NA,NA,NA,NA
+"662",662,"Strawberry Cake","Napoleon Cake","Apricot Tart","Chocolate Tart","Almond Twist",NA,NA,NA
+"663",663,"Truffle Cake","Gongolais Cookie","Apricot Danish","Almond Bear Claw","Vanilla Frappuccino",NA,NA,NA
+"664",664,"Chocolate Cake","Casino Cake","Chocolate Coffee",NA,NA,NA,NA,NA
+"665",665,"Marzipan Cookie","Tuile Cookie","Blueberry Danish","Orange Juice",NA,NA,NA,NA
+"666",666,"Apple Tart","Apple Croissant","Apple Danish","Cherry Soda",NA,NA,NA,NA
+"667",667,"Marzipan Cookie","Tuile Cookie",NA,NA,NA,NA,NA,NA
+"668",668,"Blueberry Tart","Apricot Croissant","Hot Coffee","Single Espresso",NA,NA,NA,NA
+"669",669,"Ganache Cookie","Lemon Lemonade",NA,NA,NA,NA,NA,NA
+"670",670,"Truffle Cake","Gongolais Cookie","Cherry Soda",NA,NA,NA,NA,NA
+"671",671,"Raspberry Cookie","Cheese Croissant","Blueberry Danish","Orange Juice","Hot Coffee",NA,NA,NA
+"672",672,"Lemon Cake","Coffee Eclair","Chocolate Meringue",NA,NA,NA,NA,NA
+"673",673,"Cheese Croissant","Orange Juice",NA,NA,NA,NA,NA,NA
+"674",674,"Blueberry Tart","Lemon Tart","Apricot Croissant","Almond Bear Claw","Hot Coffee",NA,NA,NA
+"675",675,"Coffee Eclair","Raspberry Cookie","Almond Croissant","Chocolate Coffee",NA,NA,NA,NA
+"676",676,"Orange Juice",NA,NA,NA,NA,NA,NA,NA
+"677",677,"Casino Cake","Almond Tart","Raspberry Cookie","Orange Juice",NA,NA,NA,NA
+"678",678,"Vanilla Meringue","Almond Croissant","Cherry Soda",NA,NA,NA,NA,NA
+"679",679,"Coffee Eclair","Blackberry Tart","Single Espresso",NA,NA,NA,NA,NA
+"680",680,"Apple Tart","Chocolate Meringue","Blueberry Danish","Cherry Soda",NA,NA,NA,NA
+"681",681,"Blueberry Tart","Chocolate Tart","Cheese Croissant","Vanilla Frappuccino","Single Espresso",NA,NA,NA
+"682",682,"Single Espresso",NA,NA,NA,NA,NA,NA,NA
+"683",683,"Marzipan Cookie","Hot Coffee",NA,NA,NA,NA,NA,NA
+"684",684,"Lemon Cake","Apple Pie","Ganache Cookie","Orange Juice","Green Tea",NA,NA,NA
+"685",685,"Vanilla Eclair","Napoleon Cake","Gongolais Cookie",NA,NA,NA,NA,NA
+"686",686,"Marzipan Cookie","Tuile Cookie",NA,NA,NA,NA,NA,NA
+"687",687,"Chocolate Cake","Casino Cake","Vanilla Meringue","Green Tea","Chocolate Coffee",NA,NA,NA
+"688",688,"Blueberry Tart","Apricot Croissant","Hot Coffee",NA,NA,NA,NA,NA
+"689",689,"Almond Tart","Gongolais Cookie","Blueberry Danish",NA,NA,NA,NA,NA
+"690",690,"Coffee Eclair","Apple Pie","Berry Tart","Cherry Tart","Raspberry Cookie",NA,NA,NA
+"691",691,"Truffle Cake","Gongolais Cookie","Green Tea",NA,NA,NA,NA,NA
+"692",692,"Chocolate Tart","Raspberry Cookie","Walnut Cookie","Vanilla Frappuccino",NA,NA,NA,NA
+"693",693,"Lemon Cake","Casino Cake","Blackberry Tart","Lemon Tart",NA,NA,NA,NA
+"694",694,"Coffee Eclair","Apple Pie","Almond Twist","Hot Coffee",NA,NA,NA,NA
+"695",695,"Truffle Cake","Apple Tart","Gongolais Cookie","Bottled Water",NA,NA,NA,NA
+"696",696,"Vanilla Eclair","Apple Pie","Gongolais Cookie","Almond Twist",NA,NA,NA,NA
+"697",697,"Pecan Tart","Walnut Cookie",NA,NA,NA,NA,NA,NA
+"698",698,"Coffee Eclair","Napoleon Cake","Apple Pie","Apricot Tart","Almond Twist","Blueberry Danish","Hot Coffee",NA
+"699",699,"Coffee Eclair","Apple Pie","Almond Twist","Hot Coffee",NA,NA,NA,NA
+"700",700,"Opera Cake","Apple Danish","Orange Juice","Single Espresso",NA,NA,NA,NA
+"701",701,"Blueberry Tart","Apricot Croissant","Hot Coffee",NA,NA,NA,NA,NA
+"702",702,"Ganache Cookie","Apricot Danish",NA,NA,NA,NA,NA,NA
+"703",703,"Chocolate Cake","Casino Cake","Chocolate Coffee",NA,NA,NA,NA,NA
+"704",704,"Almond Tart","Cherry Tart","Bottled Water",NA,NA,NA,NA,NA
+"705",705,"Chocolate Eclair","Blackberry Tart","Ganache Cookie","Marzipan Cookie","Tuile Cookie","Chocolate Croissant","Raspberry Lemonade","Chocolate Coffee"
+"706",706,"Coffee Eclair","Apple Pie","Almond Twist","Hot Coffee",NA,NA,NA,NA
+"707",707,"Blueberry Tart","Lemon Lemonade",NA,NA,NA,NA,NA,NA
+"708",708,"Almond Twist","Green Tea",NA,NA,NA,NA,NA,NA
+"709",709,"Coffee Eclair","Blackberry Tart","Walnut Cookie","Single Espresso",NA,NA,NA,NA
+"710",710,"Apple Tart","Apple Croissant","Apple Danish","Cherry Soda",NA,NA,NA,NA
+"711",711,"Truffle Cake","Gongolais Cookie","Lemon Cookie",NA,NA,NA,NA,NA
+"712",712,"Apple Tart","Apricot Tart","Berry Tart","Apricot Croissant",NA,NA,NA,NA
+"713",713,"Strawberry Cake","Truffle Cake","Napoleon Cake","Apricot Croissant",NA,NA,NA,NA
+"714",714,"Almond Tart","Lemon Lemonade","Bottled Water",NA,NA,NA,NA,NA
+"715",715,"Opera Cake","Cherry Tart","Apricot Danish",NA,NA,NA,NA,NA
+"716",716,"Lemon Cake","Apricot Tart","Pecan Tart","Apple Croissant","Hot Coffee",NA,NA,NA
+"717",717,"Almond Twist","Vanilla Frappuccino","Cherry Soda",NA,NA,NA,NA,NA
+"718",718,"Strawberry Cake","Napoleon Cake",NA,NA,NA,NA,NA,NA
+"719",719,"Lemon Cake","Lemon Tart",NA,NA,NA,NA,NA,NA
+"720",720,"Strawberry Cake","Apple Tart","Apple Croissant",NA,NA,NA,NA,NA
+"721",721,"Almond Tart","Cheese Croissant",NA,NA,NA,NA,NA,NA
+"722",722,"Berry Tart","Bottled Water",NA,NA,NA,NA,NA,NA
+"723",723,"Truffle Cake","Blackberry Tart","Chocolate Croissant",NA,NA,NA,NA,NA
+"724",724,"Raspberry Cookie","Apple Danish",NA,NA,NA,NA,NA,NA
+"725",725,"Truffle Cake","Walnut Cookie","Apricot Croissant","Apricot Danish","Orange Juice",NA,NA,NA
+"726",726,"Opera Cake","Apple Pie","Walnut Cookie",NA,NA,NA,NA,NA
+"727",727,"Strawberry Cake","Chocolate Eclair","Vanilla Eclair","Almond Tart","Cherry Tart","Gongolais Cookie","Apricot Danish","Almond Twist"
+"728",728,"Ganache Cookie","Lemon Cookie","Marzipan Cookie",NA,NA,NA,NA,NA
+"729",729,"Cheese Croissant","Blueberry Danish",NA,NA,NA,NA,NA,NA
+"730",730,"Marzipan Cookie","Tuile Cookie",NA,NA,NA,NA,NA,NA
+"731",731,"Chocolate Eclair","Almond Tart","Bottled Water",NA,NA,NA,NA,NA
+"732",732,"Gongolais Cookie",NA,NA,NA,NA,NA,NA,NA
+"733",733,"Chocolate Cake","Chocolate Coffee",NA,NA,NA,NA,NA,NA
+"734",734,"Blueberry Tart","Apricot Croissant","Hot Coffee",NA,NA,NA,NA,NA
+"735",735,"Opera Cake","Napoleon Cake","Almond Twist","Orange Juice","Bottled Water",NA,NA,NA
+"736",736,"Lemon Tart","Ganache Cookie","Raspberry Cookie","Marzipan Cookie","Almond Croissant",NA,NA,NA
+"737",737,"Truffle Cake","Lemon Tart","Almond Croissant",NA,NA,NA,NA,NA
+"738",738,"Truffle Cake","Blackberry Tart","Lemon Tart","Gongolais Cookie","Raspberry Cookie",NA,NA,NA
+"739",739,"Truffle Cake","Gongolais Cookie",NA,NA,NA,NA,NA,NA
+"740",740,"Opera Cake","Cherry Tart","Apricot Danish",NA,NA,NA,NA,NA
+"741",741,"Chocolate Tart","Walnut Cookie","Vanilla Frappuccino",NA,NA,NA,NA,NA
+"742",742,"Apple Tart","Vanilla Meringue","Apple Croissant","Apple Danish","Raspberry Lemonade","Cherry Soda",NA,NA
+"743",743,"Opera Cake","Cherry Tart","Apricot Danish",NA,NA,NA,NA,NA
+"744",744,"Almond Tart",NA,NA,NA,NA,NA,NA,NA
+"745",745,"Coffee Eclair","Blackberry Tart",NA,NA,NA,NA,NA,NA
+"746",746,"Tuile Cookie","Green Tea","Single Espresso",NA,NA,NA,NA,NA
+"747",747,"Apple Tart","Marzipan Cookie","Tuile Cookie",NA,NA,NA,NA,NA
+"748",748,"Lemon Cake","Lemon Tart",NA,NA,NA,NA,NA,NA
+"749",749,"Chocolate Tart","Ganache Cookie",NA,NA,NA,NA,NA,NA
+"750",750,"Chocolate Cake","Cherry Tart","Lemon Cookie","Green Tea","Cherry Soda",NA,NA,NA
+"751",751,"Blueberry Tart","Apricot Croissant","Hot Coffee",NA,NA,NA,NA,NA
+"752",752,"Chocolate Cake","Apple Pie","Cheese Croissant",NA,NA,NA,NA,NA
+"753",753,"Opera Cake",NA,NA,NA,NA,NA,NA,NA
+"754",754,"Napoleon Cake","Blackberry Tart","Lemon Lemonade",NA,NA,NA,NA,NA
+"755",755,"Apple Tart","Almond Croissant","Single Espresso",NA,NA,NA,NA,NA
+"756",756,"Hot Coffee",NA,NA,NA,NA,NA,NA,NA
+"757",757,"Raspberry Cookie","Lemon Cookie","Lemon Lemonade","Raspberry Lemonade","Green Tea",NA,NA,NA
+"758",758,"Berry Tart","Lemon Lemonade","Bottled Water",NA,NA,NA,NA,NA
+"759",759,"Blackberry Tart","Raspberry Lemonade","Vanilla Frappuccino",NA,NA,NA,NA,NA
+"760",760,"Marzipan Cookie","Tuile Cookie","Walnut Cookie",NA,NA,NA,NA,NA
+"761",761,"Chocolate Cake","Casino Cake","Raspberry Cookie","Chocolate Coffee",NA,NA,NA,NA
+"762",762,"Coffee Eclair","Vanilla Eclair","Apple Pie","Pecan Tart",NA,NA,NA,NA
+"763",763,"Chocolate Eclair","Blackberry Tart","Gongolais Cookie","Apricot Croissant",NA,NA,NA,NA
+"764",764,"Truffle Cake","Apricot Tart","Vanilla Meringue",NA,NA,NA,NA,NA
+"765",765,"Casino Cake","Pecan Tart",NA,NA,NA,NA,NA,NA
+"766",766,"Lemon Cake","Coffee Eclair","Blackberry Tart","Cherry Soda",NA,NA,NA,NA
+"767",767,"Chocolate Croissant","Hot Coffee",NA,NA,NA,NA,NA,NA
+"768",768,"Apple Tart","Lemon Cookie","Apple Croissant","Chocolate Coffee",NA,NA,NA,NA
+"769",769,"Vanilla Meringue","Marzipan Cookie","Tuile Cookie",NA,NA,NA,NA,NA
+"770",770,"Raspberry Cookie","Lemon Cookie","Lemon Lemonade","Raspberry Lemonade",NA,NA,NA,NA
+"771",771,"Pecan Tart","Marzipan Cookie","Walnut Cookie",NA,NA,NA,NA,NA
+"772",772,"Vanilla Meringue",NA,NA,NA,NA,NA,NA,NA
+"773",773,"Marzipan Cookie","Tuile Cookie",NA,NA,NA,NA,NA,NA
+"774",774,"Lemon Cake","Apricot Tart","Walnut Cookie",NA,NA,NA,NA,NA
+"775",775,"Apple Pie","Raspberry Cookie","Chocolate Meringue","Apple Danish","Almond Bear Claw","Hot Coffee",NA,NA
+"776",776,"Chocolate Tart","Walnut Cookie","Vanilla Frappuccino",NA,NA,NA,NA,NA
+"777",777,"Gongolais Cookie","Almond Croissant","Blueberry Danish",NA,NA,NA,NA,NA
+"778",778,"Cheese Croissant","Orange Juice","Hot Coffee","Vanilla Frappuccino",NA,NA,NA,NA
+"779",779,"Chocolate Cake","Casino Cake","Apple Tart","Blueberry Danish","Raspberry Lemonade","Chocolate Coffee","Single Espresso",NA
+"780",780,"Apple Tart","Apple Croissant","Apple Danish","Cherry Soda",NA,NA,NA,NA
+"781",781,"Apple Tart","Chocolate Tart","Marzipan Cookie","Green Tea","Hot Coffee",NA,NA,NA
+"782",782,"Chocolate Tart","Vanilla Frappuccino",NA,NA,NA,NA,NA,NA
+"783",783,"Apple Tart","Apple Croissant","Apple Danish","Cherry Soda",NA,NA,NA,NA
+"784",784,"Vanilla Eclair","Pecan Tart","Walnut Cookie","Apricot Croissant","Chocolate Coffee",NA,NA,NA
+"785",785,"Almond Tart","Gongolais Cookie","Raspberry Cookie","Vanilla Meringue","Apple Danish",NA,NA,NA
+"786",786,"Coffee Eclair","Pecan Tart","Vanilla Meringue","Bottled Water","Vanilla Frappuccino",NA,NA,NA
+"787",787,"Casino Cake","Cherry Tart","Marzipan Cookie","Tuile Cookie","Cheese Croissant",NA,NA,NA
+"788",788,"Berry Tart","Ganache Cookie","Raspberry Cookie","Lemon Cookie","Almond Croissant","Orange Juice","Chocolate Coffee",NA
+"789",789,"Cherry Tart","Apricot Danish",NA,NA,NA,NA,NA,NA
+"790",790,"Lemon Cake",NA,NA,NA,NA,NA,NA,NA
+"791",791,"Chocolate Cake","Berry Tart","Pecan Tart","Bottled Water","Chocolate Coffee",NA,NA,NA
+"792",792,"Truffle Cake","Coffee Eclair","Apple Pie","Lemon Cookie","Marzipan Cookie",NA,NA,NA
+"793",793,"Chocolate Cake","Cherry Tart","Chocolate Meringue","Blueberry Danish",NA,NA,NA,NA
+"794",794,"Lemon Cake","Lemon Tart","Marzipan Cookie",NA,NA,NA,NA,NA
+"795",795,"Raspberry Cookie","Lemon Cookie","Lemon Lemonade","Raspberry Lemonade","Green Tea",NA,NA,NA
+"796",796,"Blueberry Tart",NA,NA,NA,NA,NA,NA,NA
+"797",797,"Chocolate Cake","Chocolate Eclair","Tuile Cookie","Cheese Croissant","Apricot Danish","Chocolate Coffee","Cherry Soda",NA
+"798",798,"Lemon Cake","Lemon Tart","Bottled Water",NA,NA,NA,NA,NA
+"799",799,"Chocolate Tart","Walnut Cookie","Vanilla Frappuccino",NA,NA,NA,NA,NA
+"800",800,"Chocolate Eclair","Apple Croissant",NA,NA,NA,NA,NA,NA
+"801",801,"Raspberry Cookie","Lemon Cookie","Lemon Lemonade","Raspberry Lemonade","Green Tea",NA,NA,NA
+"802",802,"Cheese Croissant","Orange Juice",NA,NA,NA,NA,NA,NA
+"803",803,"Lemon Cake","Opera Cake","Lemon Tart","Walnut Cookie","Apple Croissant","Bottled Water",NA,NA
+"804",804,"Chocolate Tart","Walnut Cookie","Vanilla Frappuccino",NA,NA,NA,NA,NA
+"805",805,"Marzipan Cookie","Apple Croissant","Apricot Croissant","Apple Danish","Chocolate Coffee",NA,NA,NA
+"806",806,"Blueberry Tart","Apricot Croissant","Hot Coffee",NA,NA,NA,NA,NA
+"807",807,"Lemon Cake","Lemon Tart","Chocolate Croissant","Bottled Water",NA,NA,NA,NA
+"808",808,"Chocolate Cake","Casino Cake","Coffee Eclair","Cherry Tart","Cherry Soda",NA,NA,NA
+"809",809,"Berry Tart","Lemon Tart",NA,NA,NA,NA,NA,NA
+"810",810,"Coffee Eclair","Blackberry Tart","Single Espresso",NA,NA,NA,NA,NA
+"811",811,"Truffle Cake","Apricot Tart","Gongolais Cookie","Almond Croissant",NA,NA,NA,NA
+"812",812,"Chocolate Tart","Walnut Cookie","Vanilla Frappuccino",NA,NA,NA,NA,NA
+"813",813,"Apricot Tart","Marzipan Cookie","Tuile Cookie","Orange Juice","Cherry Soda",NA,NA,NA
+"814",814,"Lemon Cake","Truffle Cake","Gongolais Cookie",NA,NA,NA,NA,NA
+"815",815,"Strawberry Cake","Napoleon Cake",NA,NA,NA,NA,NA,NA
+"816",816,"Coffee Eclair","Apple Pie","Almond Twist","Hot Coffee",NA,NA,NA,NA
+"817",817,"Chocolate Cake","Opera Cake","Coffee Eclair","Gongolais Cookie","Almond Twist","Blueberry Danish","Lemon Lemonade",NA
+"818",818,"Lemon Cake","Lemon Tart",NA,NA,NA,NA,NA,NA
+"819",819,"Gongolais Cookie","Vanilla Meringue",NA,NA,NA,NA,NA,NA
+"820",820,"Cheese Croissant","Almond Twist","Orange Juice",NA,NA,NA,NA,NA
+"821",821,"Strawberry Cake","Vanilla Eclair","Apricot Tart","Marzipan Cookie","Tuile Cookie","Chocolate Coffee",NA,NA
+"822",822,"Marzipan Cookie","Tuile Cookie","Lemon Lemonade",NA,NA,NA,NA,NA
+"823",823,"Marzipan Cookie","Tuile Cookie",NA,NA,NA,NA,NA,NA
+"824",824,"Cheese Croissant","Orange Juice",NA,NA,NA,NA,NA,NA
+"825",825,"Truffle Cake","Gongolais Cookie",NA,NA,NA,NA,NA,NA
+"826",826,"Berry Tart","Gongolais Cookie","Bottled Water",NA,NA,NA,NA,NA
+"827",827,"Blueberry Tart","Apricot Croissant","Hot Coffee",NA,NA,NA,NA,NA
+"828",828,"Opera Cake","Blueberry Tart","Tuile Cookie","Cherry Soda",NA,NA,NA,NA
+"829",829,"Gongolais Cookie","Raspberry Cookie","Lemon Cookie","Blueberry Danish",NA,NA,NA,NA
+"830",830,"Blackberry Tart","Vanilla Meringue","Tuile Cookie","Cheese Croissant","Apple Danish",NA,NA,NA
+"831",831,"Coffee Eclair","Blackberry Tart","Single Espresso",NA,NA,NA,NA,NA
+"832",832,"Blackberry Tart","Gongolais Cookie","Marzipan Cookie","Apple Croissant","Cheese Croissant","Lemon Lemonade",NA,NA
+"833",833,"Cherry Tart","Apricot Danish","Raspberry Lemonade","Green Tea","Single Espresso",NA,NA,NA
+"834",834,"Strawberry Cake","Napoleon Cake",NA,NA,NA,NA,NA,NA
+"835",835,"Apple Tart","Apple Croissant","Apple Danish",NA,NA,NA,NA,NA
+"836",836,"Lemon Cake","Lemon Tart","Tuile Cookie","Apple Croissant","Almond Bear Claw","Bottled Water","Cherry Soda",NA
+"837",837,"Strawberry Cake","Napoleon Cake","Cherry Tart",NA,NA,NA,NA,NA
+"838",838,"Chocolate Eclair","Apricot Croissant","Chocolate Croissant",NA,NA,NA,NA,NA
+"839",839,"Blackberry Tart","Orange Juice",NA,NA,NA,NA,NA,NA
+"840",840,"Apricot Tart","Marzipan Cookie","Tuile Cookie","Apple Danish",NA,NA,NA,NA
+"841",841,"Coffee Eclair","Blackberry Tart","Gongolais Cookie","Almond Twist","Green Tea","Single Espresso",NA,NA
+"842",842,"Coffee Eclair","Almond Croissant","Green Tea",NA,NA,NA,NA,NA
+"843",843,"Blackberry Tart","Chocolate Meringue","Single Espresso",NA,NA,NA,NA,NA
+"844",844,"Gongolais Cookie","Cheese Croissant","Raspberry Lemonade",NA,NA,NA,NA,NA
+"845",845,"Chocolate Croissant",NA,NA,NA,NA,NA,NA,NA
+"846",846,"Strawberry Cake","Berry Tart","Ganache Cookie","Chocolate Meringue","Raspberry Lemonade",NA,NA,NA
+"847",847,"Pecan Tart","Raspberry Cookie","Cheese Croissant","Orange Juice",NA,NA,NA,NA
+"848",848,"Napoleon Cake","Apricot Tart","Gongolais Cookie","Orange Juice","Hot Coffee",NA,NA,NA
+"849",849,"Chocolate Cake","Berry Tart","Gongolais Cookie","Walnut Cookie","Chocolate Coffee",NA,NA,NA
+"850",850,"Lemon Cake","Lemon Tart",NA,NA,NA,NA,NA,NA
+"851",851,"Opera Cake","Blueberry Tart","Apricot Croissant","Hot Coffee",NA,NA,NA,NA
+"852",852,"Strawberry Cake","Napoleon Cake",NA,NA,NA,NA,NA,NA
+"853",853,"Strawberry Cake","Napoleon Cake","Ganache Cookie","Blueberry Danish",NA,NA,NA,NA
+"854",854,"Opera Cake","Cherry Tart","Blueberry Danish",NA,NA,NA,NA,NA
+"855",855,"Strawberry Cake","Apricot Tart","Apricot Croissant",NA,NA,NA,NA,NA
+"856",856,"Chocolate Tart","Walnut Cookie","Vanilla Frappuccino",NA,NA,NA,NA,NA
+"857",857,"Apple Tart","Apple Croissant","Apple Danish","Cherry Soda",NA,NA,NA,NA
+"858",858,"Berry Tart","Blackberry Tart",NA,NA,NA,NA,NA,NA
+"859",859,"Raspberry Cookie","Chocolate Coffee",NA,NA,NA,NA,NA,NA
+"860",860,"Truffle Cake","Gongolais Cookie",NA,NA,NA,NA,NA,NA
+"861",861,"Opera Cake","Cherry Tart","Apricot Danish",NA,NA,NA,NA,NA
+"862",862,"Apple Tart","Gongolais Cookie","Vanilla Frappuccino","Cherry Soda",NA,NA,NA,NA
+"863",863,"Opera Cake","Truffle Cake","Cherry Tart","Apricot Danish",NA,NA,NA,NA
+"864",864,"Raspberry Cookie","Lemon Cookie","Lemon Lemonade","Raspberry Lemonade",NA,NA,NA,NA
+"865",865,"Gongolais Cookie",NA,NA,NA,NA,NA,NA,NA
+"866",866,"Vanilla Eclair","Apple Tart","Blueberry Tart","Cherry Tart","Walnut Cookie","Chocolate Croissant","Single Espresso",NA
+"867",867,"Cheese Croissant","Chocolate Croissant","Orange Juice","Bottled Water",NA,NA,NA,NA
+"868",868,"Apricot Tart","Raspberry Cookie","Lemon Cookie","Raspberry Lemonade",NA,NA,NA,NA
+"869",869,"Raspberry Cookie","Lemon Cookie","Lemon Lemonade","Raspberry Lemonade","Green Tea",NA,NA,NA
+"870",870,"Apricot Tart","Chocolate Meringue",NA,NA,NA,NA,NA,NA
+"871",871,"Truffle Cake","Apple Danish","Raspberry Lemonade","Orange Juice",NA,NA,NA,NA
+"872",872,"Truffle Cake","Gongolais Cookie","Apple Croissant","Almond Twist","Vanilla Frappuccino",NA,NA,NA
+"873",873,"Truffle Cake","Coffee Eclair","Pecan Tart",NA,NA,NA,NA,NA
+"874",874,"Strawberry Cake","Berry Tart","Blueberry Tart","Almond Twist","Bottled Water",NA,NA,NA
+"875",875,"Opera Cake","Cherry Tart","Apricot Danish",NA,NA,NA,NA,NA
+"876",876,"Vanilla Eclair","Ganache Cookie","Walnut Cookie","Cheese Croissant","Orange Juice",NA,NA,NA
+"877",877,"Truffle Cake","Berry Tart","Cherry Tart",NA,NA,NA,NA,NA
+"878",878,"Marzipan Cookie",NA,NA,NA,NA,NA,NA,NA
+"879",879,"Berry Tart","Pecan Tart","Gongolais Cookie","Lemon Cookie",NA,NA,NA,NA
+"880",880,"Lemon Cake","Opera Cake","Berry Tart","Apple Croissant","Bottled Water","Hot Coffee","Vanilla Frappuccino",NA
+"881",881,"Walnut Cookie","Apple Danish","Raspberry Lemonade","Chocolate Coffee",NA,NA,NA,NA
+"882",882,"Blueberry Tart","Apricot Croissant","Hot Coffee",NA,NA,NA,NA,NA
+"883",883,"Raspberry Cookie","Lemon Cookie","Lemon Lemonade","Raspberry Lemonade","Green Tea",NA,NA,NA
+"884",884,"Coffee Eclair","Apple Pie","Lemon Tart","Almond Bear Claw","Orange Juice","Green Tea","Vanilla Frappuccino",NA
+"885",885,"Chocolate Cake","Marzipan Cookie","Tuile Cookie","Apricot Croissant",NA,NA,NA,NA
+"886",886,"Chocolate Cake","Casino Cake","Tuile Cookie","Raspberry Lemonade","Chocolate Coffee",NA,NA,NA
+"887",887,"Raspberry Cookie","Lemon Cookie","Lemon Lemonade","Raspberry Lemonade","Green Tea",NA,NA,NA
+"888",888,"Opera Cake","Cherry Tart","Apricot Danish",NA,NA,NA,NA,NA
+"889",889,"Berry Tart","Apple Croissant",NA,NA,NA,NA,NA,NA
+"890",890,"Vanilla Eclair","Berry Tart","Bottled Water",NA,NA,NA,NA,NA
+"891",891,"Opera Cake","Berry Tart","Cherry Tart","Gongolais Cookie","Apricot Danish",NA,NA,NA
+"892",892,"Lemon Cake","Opera Cake","Almond Croissant",NA,NA,NA,NA,NA
+"893",893,"Chocolate Eclair","Apple Tart","Raspberry Lemonade","Bottled Water",NA,NA,NA,NA
+"894",894,"Apple Pie","Almond Croissant","Green Tea",NA,NA,NA,NA,NA
+"895",895,"Coffee Eclair","Blackberry Tart","Single Espresso",NA,NA,NA,NA,NA
+"896",896,"Chocolate Cake","Casino Cake","Chocolate Coffee",NA,NA,NA,NA,NA
+"897",897,"Lemon Cake","Chocolate Tart","Almond Bear Claw","Green Tea",NA,NA,NA,NA
+"898",898,"Chocolate Meringue","Apple Danish",NA,NA,NA,NA,NA,NA
+"899",899,"Coffee Eclair","Napoleon Cake","Marzipan Cookie",NA,NA,NA,NA,NA
+"900",900,"Truffle Cake","Apricot Tart","Gongolais Cookie",NA,NA,NA,NA,NA
+"901",901,"Apple Tart","Apple Croissant","Apple Danish","Cherry Soda",NA,NA,NA,NA
+"902",902,"Vanilla Meringue","Blueberry Danish","Green Tea",NA,NA,NA,NA,NA
+"903",903,"Apple Tart","Vanilla Meringue","Almond Bear Claw",NA,NA,NA,NA,NA
+"904",904,"Lemon Cake","Blueberry Tart","Pecan Tart","Lemon Lemonade",NA,NA,NA,NA
+"905",905,"Raspberry Cookie","Lemon Cookie","Lemon Lemonade","Raspberry Lemonade","Green Tea",NA,NA,NA
+"906",906,"Chocolate Eclair","Tuile Cookie","Almond Twist","Almond Bear Claw","Single Espresso",NA,NA,NA
+"907",907,"Berry Tart","Blueberry Tart","Chocolate Tart","Cherry Tart","Vanilla Meringue","Apple Croissant",NA,NA
+"908",908,"Almond Twist","Bottled Water",NA,NA,NA,NA,NA,NA
+"909",909,"Apple Pie","Almond Croissant",NA,NA,NA,NA,NA,NA
+"910",910,"Gongolais Cookie","Tuile Cookie","Raspberry Lemonade","Cherry Soda",NA,NA,NA,NA
+"911",911,"Apple Tart","Apple Croissant","Apple Danish","Cherry Soda",NA,NA,NA,NA
+"912",912,"Strawberry Cake","Truffle Cake","Coffee Eclair","Ganache Cookie",NA,NA,NA,NA
+"913",913,"Opera Cake","Napoleon Cake","Cherry Tart","Apricot Danish","Raspberry Lemonade",NA,NA,NA
+"914",914,"Truffle Cake","Marzipan Cookie","Tuile Cookie","Orange Juice",NA,NA,NA,NA
+"915",915,"Truffle Cake","Gongolais Cookie","Apple Croissant",NA,NA,NA,NA,NA
+"916",916,"Cheese Croissant","Orange Juice",NA,NA,NA,NA,NA,NA
+"917",917,"Strawberry Cake","Napoleon Cake","Blackberry Tart",NA,NA,NA,NA,NA
+"918",918,"Coffee Eclair","Apple Pie","Almond Twist","Hot Coffee",NA,NA,NA,NA
+"919",919,"Raspberry Cookie","Lemon Cookie","Lemon Lemonade","Raspberry Lemonade","Green Tea",NA,NA,NA
+"920",920,"Lemon Lemonade",NA,NA,NA,NA,NA,NA,NA
+"921",921,"Lemon Cake","Vanilla Eclair","Berry Tart","Lemon Tart",NA,NA,NA,NA
+"922",922,"Berry Tart","Apple Croissant","Bottled Water",NA,NA,NA,NA,NA
+"923",923,"Chocolate Eclair","Tuile Cookie","Cheese Croissant","Blueberry Danish",NA,NA,NA,NA
+"924",924,"Chocolate Cake","Chocolate Eclair","Blueberry Tart","Almond Croissant","Blueberry Danish","Vanilla Frappuccino",NA,NA
+"925",925,"Apple Tart","Apple Croissant","Apple Danish",NA,NA,NA,NA,NA
+"926",926,"Lemon Cake","Apple Danish","Chocolate Coffee",NA,NA,NA,NA,NA
+"927",927,"Marzipan Cookie","Orange Juice","Bottled Water",NA,NA,NA,NA,NA
+"928",928,"Strawberry Cake","Napoleon Cake",NA,NA,NA,NA,NA,NA
+"929",929,"Pecan Tart",NA,NA,NA,NA,NA,NA,NA
+"930",930,"Truffle Cake","Gongolais Cookie",NA,NA,NA,NA,NA,NA
+"931",931,"Almond Tart","Blueberry Tart","Vanilla Meringue",NA,NA,NA,NA,NA
+"932",932,"Apricot Tart","Apple Danish","Orange Juice",NA,NA,NA,NA,NA
+"933",933,"Apple Tart","Cheese Croissant","Orange Juice","Vanilla Frappuccino",NA,NA,NA,NA
+"934",934,"Strawberry Cake","Marzipan Cookie","Tuile Cookie",NA,NA,NA,NA,NA
+"935",935,"Lemon Cake","Lemon Tart","Blueberry Danish",NA,NA,NA,NA,NA
+"936",936,"Lemon Cake","Blueberry Tart","Apricot Croissant",NA,NA,NA,NA,NA
+"937",937,"Apple Tart","Apple Croissant","Apple Danish",NA,NA,NA,NA,NA
+"938",938,"Blueberry Tart","Apricot Croissant","Raspberry Lemonade","Hot Coffee",NA,NA,NA,NA
+"939",939,"Blueberry Tart","Cheese Croissant","Orange Juice",NA,NA,NA,NA,NA
+"940",940,"Apple Tart","Apricot Tart","Apple Croissant","Apricot Danish","Apple Danish","Raspberry Lemonade","Bottled Water",NA
+"941",941,"Chocolate Eclair","Napoleon Cake","Lemon Tart","Lemon Cookie","Bottled Water",NA,NA,NA
+"942",942,"Raspberry Cookie","Lemon Cookie","Lemon Lemonade","Raspberry Lemonade","Green Tea",NA,NA,NA
+"943",943,"Truffle Cake","Apple Tart","Apple Croissant","Apple Danish","Cherry Soda",NA,NA,NA
+"944",944,"Chocolate Cake","Casino Cake","Pecan Tart","Bottled Water","Chocolate Coffee",NA,NA,NA
+"945",945,"Opera Cake","Cherry Tart","Apricot Danish",NA,NA,NA,NA,NA
+"946",946,"Strawberry Cake","Apple Tart","Berry Tart","Lemon Tart","Apricot Croissant","Cherry Soda",NA,NA
+"947",947,"Raspberry Lemonade",NA,NA,NA,NA,NA,NA,NA
+"948",948,"Chocolate Cake","Berry Tart","Bottled Water",NA,NA,NA,NA,NA
+"949",949,"Lemon Cake","Almond Tart","Apricot Tart","Lemon Tart","Chocolate Meringue","Vanilla Meringue","Cheese Croissant","Blueberry Danish"
+"950",950,"Coffee Eclair","Blackberry Tart","Blueberry Tart",NA,NA,NA,NA,NA
+"951",951,"Strawberry Cake","Walnut Cookie","Chocolate Coffee",NA,NA,NA,NA,NA
+"952",952,"Berry Tart","Pecan Tart","Lemon Lemonade","Green Tea",NA,NA,NA,NA
+"953",953,"Coffee Eclair","Almond Bear Claw",NA,NA,NA,NA,NA,NA
+"954",954,"Opera Cake","Cherry Tart","Hot Coffee","Vanilla Frappuccino",NA,NA,NA,NA
+"955",955,"Lemon Tart","Walnut Cookie","Green Tea",NA,NA,NA,NA,NA
+"956",956,"Napoleon Cake","Blueberry Tart",NA,NA,NA,NA,NA,NA
+"957",957,"Chocolate Cake","Pecan Tart","Orange Juice",NA,NA,NA,NA,NA
+"958",958,"Truffle Cake","Almond Tart","Apricot Croissant","Cheese Croissant","Blueberry Danish","Bottled Water",NA,NA
+"959",959,"Marzipan Cookie","Tuile Cookie",NA,NA,NA,NA,NA,NA
+"960",960,"Truffle Cake","Gongolais Cookie","Chocolate Meringue","Walnut Cookie","Almond Twist","Green Tea",NA,NA
+"961",961,"Lemon Tart",NA,NA,NA,NA,NA,NA,NA
+"962",962,"Strawberry Cake","Blueberry Tart","Chocolate Croissant",NA,NA,NA,NA,NA
+"963",963,"Napoleon Cake","Chocolate Tart","Bottled Water","Hot Coffee",NA,NA,NA,NA
+"964",964,"Coffee Eclair","Blackberry Tart","Walnut Cookie",NA,NA,NA,NA,NA
+"965",965,"Coffee Eclair","Apple Pie","Marzipan Cookie","Almond Twist","Blueberry Danish","Hot Coffee","Single Espresso",NA
+"966",966,"Apple Tart","Apple Croissant","Apple Danish","Cherry Soda",NA,NA,NA,NA
+"967",967,"Chocolate Croissant","Single Espresso",NA,NA,NA,NA,NA,NA
+"968",968,"Apple Croissant",NA,NA,NA,NA,NA,NA,NA
+"969",969,"Chocolate Meringue","Cheese Croissant","Orange Juice","Hot Coffee",NA,NA,NA,NA
+"970",970,"Blueberry Tart","Marzipan Cookie","Apricot Croissant","Hot Coffee",NA,NA,NA,NA
+"971",971,"Chocolate Meringue","Raspberry Lemonade",NA,NA,NA,NA,NA,NA
+"972",972,"Chocolate Eclair","Napoleon Cake","Blackberry Tart","Lemon Cookie","Chocolate Meringue","Lemon Lemonade","Hot Coffee",NA
+"973",973,"Coffee Eclair","Vanilla Eclair","Napoleon Cake","Apple Pie","Walnut Cookie","Almond Twist","Hot Coffee",NA
+"974",974,"Ganache Cookie","Apple Danish",NA,NA,NA,NA,NA,NA
+"975",975,"Truffle Cake","Coffee Eclair","Berry Tart","Chocolate Tart","Gongolais Cookie",NA,NA,NA
+"976",976,"Almond Bear Claw","Lemon Lemonade",NA,NA,NA,NA,NA,NA
+"977",977,"Casino Cake","Coffee Eclair","Blackberry Tart","Gongolais Cookie","Chocolate Meringue","Cheese Croissant","Raspberry Lemonade",NA
+"978",978,"Marzipan Cookie","Tuile Cookie",NA,NA,NA,NA,NA,NA
+"979",979,"Blueberry Tart","Apricot Croissant","Hot Coffee",NA,NA,NA,NA,NA
+"980",980,"Vanilla Eclair","Cherry Tart","Tuile Cookie",NA,NA,NA,NA,NA
+"981",981,"Apricot Tart",NA,NA,NA,NA,NA,NA,NA
+"982",982,"Raspberry Lemonade",NA,NA,NA,NA,NA,NA,NA
+"983",983,"Marzipan Cookie","Tuile Cookie","Almond Bear Claw","Cherry Soda",NA,NA,NA,NA
+"984",984,"Opera Cake","Cherry Tart","Apricot Danish",NA,NA,NA,NA,NA
+"985",985,"Blueberry Tart","Pecan Tart","Apricot Croissant","Apple Danish",NA,NA,NA,NA
+"986",986,"Blueberry Tart","Apricot Croissant","Hot Coffee",NA,NA,NA,NA,NA
+"987",987,"Strawberry Cake","Napoleon Cake",NA,NA,NA,NA,NA,NA
+"988",988,"Gongolais Cookie","Apple Croissant","Blueberry Danish",NA,NA,NA,NA,NA
+"989",989,"Chocolate Cake","Casino Cake","Chocolate Coffee",NA,NA,NA,NA,NA
+"990",990,"Chocolate Croissant",NA,NA,NA,NA,NA,NA,NA
+"991",991,"Chocolate Cake","Casino Cake","Chocolate Coffee",NA,NA,NA,NA,NA
+"992",992,"Chocolate Cake",NA,NA,NA,NA,NA,NA,NA
+"993",993,"Opera Cake","Chocolate Eclair","Apricot Tart",NA,NA,NA,NA,NA
+"994",994,"Opera Cake","Walnut Cookie","Bottled Water",NA,NA,NA,NA,NA
+"995",995,"Napoleon Cake","Marzipan Cookie","Tuile Cookie","Hot Coffee",NA,NA,NA,NA
+"996",996,"Casino Cake","Almond Tart","Gongolais Cookie","Apple Croissant","Cheese Croissant","Chocolate Coffee",NA,NA
+"997",997,"Casino Cake","Chocolate Eclair","Gongolais Cookie","Apricot Croissant",NA,NA,NA,NA
+"998",998,"Chocolate Cake","Strawberry Cake","Napoleon Cake","Almond Croissant","Cheese Croissant",NA,NA,NA
+"999",999,"Opera Cake","Cherry Tart","Apricot Danish",NA,NA,NA,NA,NA
+"1000",1000,"Blackberry Tart","Chocolate Croissant","Vanilla Frappuccino",NA,NA,NA,NA,NA
