@@ -130,13 +130,13 @@ plot(performance(ROCNN, measure="tpr", x.measure="fpr"), colorize=TRUE)
 ##############
 
 DT <- performance( ROCTree, "tpr", "fpr" )
-BN <- performance(ROCNB, "tpr", "fpr")
+NB <- performance(ROCNB, "tpr", "fpr")
 ANN <- performance(ROCNN, "tpr", "fpr")
 plot( DT, col = 'red')
-plot( BN, add = TRUE, col = 'blue')
+plot( NB, add = TRUE, col = 'blue')
 plot( ANN, add = TRUE, col = 'green')
 legend(0.6,0.6, legend=c("Decision Tree", "Naive Bayes", "ANN"),
        col=c("red", "blue", "green"), lty=1, cex=0.8)
 
-save(DT,BN,ANN,file = 'classifiers.RO')
+save(DT,NB,ANN,file = 'classifiers.RO')
 
